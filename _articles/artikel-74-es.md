@@ -1,0 +1,254 @@
+---
+title: "IA en la mediana empresa: Cómo calcular el ROI — Benchmarks sectoriales 2026"
+description: "Dirk Röthig ofrece a los directores financieros modelos concretos de cálculo del ROI de la IA en la mediana empresa — benchmarks sectoriales, análisis TCO y programas de financiación para 2026."
+tags: [ia-roi, mediana-empresa, manufactura, digitalizacion, analisis-roi]
+series: IA en la vida económica
+cover_image: https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200
+---
+
+# IA en la mediana empresa: Cómo calcular el ROI — Benchmarks sectoriales 2026
+
+**Por Dirk Röthig** | CEO, VERDANTIS Impact Capital | 9 de marzo de 2026
+
+*La mayoría de las medianas empresas saben que la IA puede ayudarles. El verdadero problema está en otro lugar: solo unas pocas pueden medir realmente el valor empresarial de sus inversiones en IA. Este artículo no está dirigido a estrategas, sino a directores financieros, controllers y responsables de finanzas que quieren saber qué aporta realmente la IA y cómo demostrarlo.*
+
+**Tags**: ROI de IA, Mediana empresa, Manufactura, Digitalización, Análisis de ROI
+
+---
+
+## El problema de la medición: Por qué tantos proyectos de IA fracasan sobre el papel
+
+Según una encuesta reciente de la Asociación de Cámaras de Comercio e Industria Alemanas (DIHK, 2024), el 38 por ciento de las medianas empresas alemanas ya utilizan soluciones de IA — un salto considerable desde el 14 por ciento en 2022. Al mismo tiempo, más de la mitad de estas empresas afirma no disponer de una metodología estructurada para medir el retorno de la inversión (DIHK, 2024). Esto no es un problema marginal, sino un problema central: sin capacidad de medición no hay curva de aprendizaje, no hay seguridad en la inversión y no hay confianza del consejo de administración.
+
+Como Dirk Röthig, hablo regularmente con responsables financieros de medianas empresas del ámbito germanoparlante. Su frustración más frecuente no es la falta de tecnología ni los costes excesivos — es la incapacidad de dar al consejo de supervisión o a los accionistas una respuesta clara a la pregunta: "¿Qué nos aporta esto concretamente?" Este artículo proporciona las herramientas para responder a esa pregunta.
+
+---
+
+## Parte 1: Las tres capas del ROI de la IA
+
+Antes de poder calcular, hay que entender a qué nivel la IA crea valor. Dirk Röthig distingue tres capas en su trabajo de asesoramiento:
+
+### Capa 1 — Efecto directo en costes (medible en 6–12 meses)
+
+Esta capa es la más fácil de cuantificar: la IA sustituye o acelera tareas específicas. Ejemplos típicos:
+
+- **Procesamiento de documentos**: La verificación de facturas asistida por IA reduce el tiempo de procesamiento manual entre un 60 y un 80 por ciento (Fraunhofer IAO, 2024)
+- **Control de calidad en la fabricación**: Los sistemas de visión por computador detectan defectos con una tasa de acierto superior al 98 por ciento, reduciendo simultáneamente la tasa de desechos entre un 20 y un 35 por ciento (BMWK, 2025)
+- **Comunicación con el cliente**: Los chatbots de IA gestionan entre el 40 y el 60 por ciento de las consultas estándar sin intervención humana (Bitkom, 2024)
+
+Fórmula de cálculo para la Capa 1:
+> **ROI (Capa 1)** = (Horas FTE ahorradas × tarifa horaria + reducción de desechos × valor del material) / (costes de implementación + cuotas anuales)
+
+### Capa 2 — Efectos en calidad e ingresos (medibles tras 12–24 meses)
+
+Esta capa es más difícil de aislar, pero considerablemente mayor:
+
+- Mayor precisión en las previsiones de compras → menor capital inmovilizado en almacén
+- Personalización en ventas → mayor tasa de conversión
+- Mantenimiento preventivo → reducción de paradas de máquinas no planificadas
+
+Según un análisis del instituto ifo (2024), el 76 por ciento de las pymes que utilizan IA reportan un retorno neto sobre ventas positivo — frente al 46 por ciento de las que no la utilizan. Esta diferencia de 30 puntos porcentuales no puede explicarse completamente por ahorros directos en costes. Refleja principalmente efectos de calidad e ingresos (instituto ifo, 2024).
+
+### Capa 3 — Opcionalidad estratégica (medible tras 24–48 meses)
+
+La tercera capa es la más difícil de cuantificar, pero la más valiosa a largo plazo: la IA crea opciones. Las empresas que construyen tempranamente pipelines de datos robustos y competencias en IA pueden desarrollar nuevos modelos de negocio — servicios predictivos en lugar de pura venta de productos, modelos de precios basados en datos, desarrollo de productos asistido por IA. La OCDE (2025) cuantifica esta palanca estratégica para las medianas empresas manufactureras en un 15–40 por ciento de creación de valor adicional en un horizonte de 5 años.
+
+---
+
+## Parte 2: Benchmarks sectoriales — Lo que dicen los números
+
+Las promesas genéricas de ROI no valen nada. Lo que importa son los benchmarks específicos por sector. Dirk Röthig ha resumido la investigación disponible para tres sectores clave de la mediana empresa alemana.
+
+### Ingeniería mecánica y metalurgia
+
+La ingeniería mecánica es la columna vertebral de la mediana empresa alemana — y uno de los sectores más avanzados en la adopción de IA.
+
+- **Tasa de adopción**: El 16–17 por ciento de las empresas manufactureras integran IA en sus procesos de producción; en las empresas con alta intensidad de I+D, esta proporción asciende al 23 por ciento (Fraunhofer ISI, 2024)
+- **Resultado típico de ROI**: Un análisis del Journal of Small Business Strategy sobre 8 pymes alemanas del sector manufacturero determinó un ROI medio ponderado del 13,44 por ciento anual
+- **Mejor ejemplo documentado**: Siemens registró un aumento de productividad del 69 por ciento en su planta de Erlangen en cuatro años gracias a IA, gemelos digitales y robótica — reduciendo simultáneamente el consumo de energía en un 42 por ciento (Siemens AG, 2024)
+- **Caso de uso más frecuente**: Mantenimiento predictivo — reducción de paradas no planificadas de máquinas entre un 25 y un 40 por ciento de media
+
+**Ejemplo de cálculo — Mantenimiento predictivo:**
+Una empresa mediana de maquinaria con 5 activos de producción críticos, que experimentan de media 2 paradas no planificadas al año de 8 horas cada una:
+- Costes de parada: 5 activos × 2 paradas × 8 horas × 2.500 €/h = 200.000 €/año
+- Sistema de mantenimiento predictivo: 60.000 € implementación + 15.000 €/año operación
+- Reducción a 0,8 paradas por activo: ahorro de 120.000 €/año
+- **ROI del año 1**: (120.000 − 75.000) / 75.000 = **60 por ciento**
+- **Punto de equilibrio**: 7,5 meses
+
+### Comercio y comercio electrónico
+
+El comercio minorista está sometido a una enorme presión sobre los márgenes y es, al mismo tiempo, el sector con los efectos de IA más rápidamente medibles.
+
+- **Precisión en las previsiones de compras**: Los sistemas de previsión de demanda basados en IA reducen el exceso y el déficit de existencias entre un 20 y un 30 por ciento (REWE Group, 2025)
+- **Personalización**: El 43 por ciento de las pymes alemanas utilizan IA generativa para la comunicación personalizada con el cliente; este grupo reporta tasas de conversión entre un 12 y un 18 por ciento superiores (DIHK, 2024)
+- **Costes de implementación típicos**: 25.000–80.000 euros para soluciones SaaS de previsión de demanda en el segmento pyme
+- **Plazo de ROI**: 8–14 meses hasta el punto de equilibrio
+
+Una empresa comercial con 2 millones de euros de capital inmovilizado en inventario y una desviación de existencias actual del 22 por ciento puede reducir esta desviación al 8 por ciento mediante la gestión de inventario asistida por IA. Esto libera 280.000 euros de capital y reduce las amortizaciones en 40.000 euros al año — un cálculo conservador del ROI arroja entre un 85 y un 120 por ciento en el primer año.
+
+### Logística y servicios de transporte
+
+La logística es un sector con márgenes extremadamente ajustados, donde la IA tiene un impacto desproporcionado.
+
+- **Optimización de rutas**: La planificación de rutas basada en IA reduce los costes de combustible y los tiempos de viaje entre un 10 y un 18 por ciento (Fraunhofer IPA, 2024)
+- **Expedición**: La planificación automatizada de carga aumenta la utilización de la carga útil entre un 8 y un 14 por ciento
+- **Procesamiento de documentos**: La verificación automatizada de CMR y la elaboración de documentación aduanera ahorra de 2 a 4 minutos por envío — con 1.000 envíos diarios = 33–66 horas de trabajo al día
+
+---
+
+## Parte 3: Desarrollar vs. Comprar vs. Externalizar — Comparación TCO a 3 años
+
+Uno de los errores más frecuentes en la mediana empresa es iniciar costosos desarrollos propios sin haber calculado completamente el TCO (Total Cost of Ownership). Dirk Röthig recomienda un análisis TCO estructurado a 3 años antes de cada decisión de inversión en IA.
+
+| Categoría de coste | Desarrollar (interno) | Comprar (solución SaaS) | Externalizar (IA gestionada) |
+|---|---|---|---|
+| **Año 1: Implementación** | 120.000–250.000 € | 30.000–80.000 € | 40.000–90.000 € |
+| **Año 1: Operación/Licencias** | 60.000–120.000 € | 20.000–50.000 € | 30.000–60.000 € |
+| **Año 2–3: Mantenimiento/Actualizaciones** | 80.000–160.000 €/año | 20.000–50.000 €/año | incluido en paquete |
+| **Costes de personal (FTE)** | 1–2 Data Engineers | 0,25–0,5 FTE | 0,1 FTE |
+| **Cumplimiento EU AI Act** | totalmente interno | parcialmente del proveedor | predominantemente del proveedor |
+| **Flexibilidad de personalización** | alta | media | baja |
+| **TCO a 3 años (estimado)** | 400.000–750.000 € | 120.000–280.000 € | 150.000–330.000 € |
+
+*Fuentes: Deloitte (2025), DIHK (2024), cálculos propios de Dirk Röthig / VERDANTIS*
+
+**Conclusión del análisis TCO**: Para la mayoría de las medianas empresas, una solución basada en SaaS — especialmente para procesos estándar como el procesamiento de documentos, la previsión de demanda y la comunicación con el cliente — es la opción más económica. El desarrollo propio solo merece la pena cuando surge una ventaja competitiva real a partir de datos o procesos propietarios que no pueden estandarizarse.
+
+---
+
+## Parte 4: Matriz de Quick Wins — 6 procesos de IA con mayor potencial de ROI
+
+No toda iniciativa de IA tiene el mismo valor. Basándose en los datos de investigación disponibles, Dirk Röthig ha desarrollado una matriz de Quick Wins que contrasta el esfuerzo de implementación con el potencial de ROI:
+
+| Proceso | Plazo de implementación | Coste (pyme) | ROI típico año 1 | Idoneidad |
+|---|---|---|---|---|
+| Procesamiento de facturas (OCR + IA) | 4–8 semanas | 15.000–35.000 € | 120–200 % | Universal |
+| Mantenimiento predictivo | 3–6 meses | 40.000–100.000 € | 60–150 % | Manufactura |
+| Previsión de demanda | 2–4 meses | 25.000–60.000 € | 80–130 % | Comercio/Logística |
+| Chatbot IA (soporte de nivel 1) | 6–12 semanas | 20.000–50.000 € | 90–180 % | Universal |
+| Control de calidad por visión artificial | 4–8 meses | 60.000–150.000 € | 70–120 % | Manufactura |
+| Captación asistida por IA (CRM) | 4–6 semanas | 10.000–30.000 € | 100–250 % | Universal |
+
+*Fuentes: Fraunhofer IAO (2024), BMWK (2025), instituto ifo (2024)*
+
+**Recomendación**: Comience siempre con al menos un quick win del ámbito universal para desarrollar competencias internas en IA y generar confianza tanto en la dirección como entre los empleados. Solo después escale hacia inversiones específicas por proceso.
+
+---
+
+## Parte 5: EU AI Act — ¿Cuánto le cuesta el cumplimiento a la mediana empresa?
+
+A partir del 2 de agosto de 2026, el EU AI Act será plenamente aplicable. Para la mediana empresa, esto crea una nueva categoría de costes que debe incorporarse a los cálculos de ROI. Dirk Röthig recomienda tener en cuenta ya los siguientes factores de cumplimiento:
+
+**Revisión de la clasificación de riesgo**: No todos los sistemas de IA caen dentro de las categorías de alto riesgo. La mayoría de las aplicaciones de la mediana empresa — procesamiento de documentos, previsión de demanda, chatbots — se clasifican como de bajo riesgo y solo están sujetas a obligaciones de transparencia.
+
+**Costes estimados de cumplimiento por clase de riesgo**:
+- Riesgo bajo: 5.000–15.000 € (pago único: documentación, revisión de protección de datos)
+- Riesgo medio: 20.000–50.000 € (evaluación de conformidad, documentación técnica)
+- Riesgo alto (p. ej., decisiones de RRHH, scoring crediticio): 60.000–200.000 € (evaluación de conformidad completa, auditoría)
+
+La UE ofrece a las pymes exenciones específicas y procedimientos de evaluación simplificados. Lo fundamental es la clasificación temprana de todos los sistemas de IA desplegados — esto debería incorporarse al inventario de cada departamento de cumplimiento (Comisión Europea, 2024).
+
+---
+
+## Parte 6: Programas de financiación — Lo que paga el Estado
+
+Dirk Röthig señala regularmente que demasiadas medianas empresas no aprovechan las ayudas disponibles para proyectos de IA. Los siguientes programas son especialmente relevantes para 2026:
+
+**1. Crédito de digitalización KfW (KfW 380/381)**
+- Préstamos subvencionados para inversiones en digitalización, incluida la IA
+- Tipo de interés: desde el 3,97 % anual (a fecha del T1 2026)
+- Importe de financiación: hasta 25 millones de euros
+
+**2. BMBF — "KMU-innovativ: Tecnologías de la información y la comunicación"**
+- Subvenciones directas para proyectos de investigación y desarrollo relacionados con IA
+- Tasa de financiación: hasta el 50 por ciento de los costes elegibles para pymes
+- Presentación: continua
+
+**3. go-digital (BMWi)**
+- Financiación de asesoramiento para proyectos de digitalización que incluyan IA
+- Tasa de financiación: hasta el 50 por ciento, máximo 16.500 euros por empresa
+- Especialmente adecuado para la preparación inicial de proyectos de IA
+
+**4. Horizon Europe — Cluster 4 "Digital, Industria y Espacio"**
+- Programa europeo de financiación para pymes con socios internacionales de investigación
+- Tasas de financiación: hasta el 70 por ciento para proyectos de innovación
+
+**Consejo práctico**: La combinación de un crédito KfW con una subvención del BMBF puede reducir la carga de capital propio en un proyecto de IA de 200.000 euros a menos de 50.000 euros. Esto mejora considerablemente el ROI calculado y reduce el riesgo de inversión.
+
+---
+
+## Parte 7: El plan de medición de 90 días para directores financieros
+
+Dirk Röthig recomienda el siguiente enfoque concreto para responsables financieros que deseen medir por primera vez de forma estructurada las inversiones en IA:
+
+**Mes 1: Inventario y línea base**
+- Elaborar un inventario completo de todos los proyectos piloto de IA en curso
+- Para cada caso de uso: definir métricas de línea base (p. ej., tiempo de procesamiento actual, tasa de error, tasa de desechos)
+- Establecer objetivos de medición y márgenes de tolerancia
+
+**Mes 2: Establecer el sistema de medición**
+- Integrar los KPI en el reporting existente (ERP, herramienta BI)
+- Aclarar la responsabilidad del reporting de KPI de IA (¿TI o Controlling?)
+- Construir un primer cuadro de mando de medición — aunque sea en su forma más sencilla (Excel basta inicialmente)
+
+**Mes 3: Elaborar el primer informe de ROI**
+- Comparación real vs. objetivo para todos los casos de uso activos
+- Plantilla de decisión: ¿escalar, pivotar o discontinuar?
+- Justificar la solicitud de presupuesto para el próximo trimestre en base a resultados medidos
+
+Según Deloitte (2025), el 75 por ciento de las organizaciones que invierten sistemáticamente en calidad de datos y medición alcanzan su corredor objetivo de ROI de IA. En las empresas sin estructura de medición, esta tasa se sitúa por debajo del 30 por ciento. La propia medición es, por tanto, un factor crítico de éxito — no solo un formato de informes.
+
+---
+
+## Conclusión: Quien no mide, pierde
+
+La mediana empresa alemana haría bien en tratar la IA no como un proyecto de transformación abstracto, sino como una decisión de inversión — con un caso de negocio claro, KPI definidos y un reporting de ROI estructurado. Los benchmarks sectoriales, el análisis TCO y la matriz de Quick Wins presentados en este artículo pretenden servir como herramientas prácticas, no como un ejercicio académico.
+
+La buena noticia es que el panorama de datos está mejorando. El análisis del instituto ifo (2024) muestra que las pymes que utilizan IA son significativamente más rentables que las que no lo hacen. Para Dirk Röthig, esto no es una casualidad: "Si se eligen los casos de uso adecuados, se mide el ROI de forma consistente y se aprovechan los programas de financiación, se pueden financiar proyectos de IA que se amortizan solos en 12 meses. Eso no es una promesa — son cifras."
+
+---
+
+## Más artículos de Dirk Röthig
+
+- [Estrategia de IA para la mediana empresa alemana — Guía práctica y análisis de ROI 2026](https://dev.to/dirkroethig-verdantis/ki-strategie-fur-den-deutschen-mittelstand-praxisleitfaden-und-roi-analyse-2026-71h) — Visión estratégica y marco de implementación para decisores
+- [IA generativa en el sector financiero — Evaluación de riesgos, cumplimiento y oportunidades 2026](https://dev.to/dirkroethig-verdantis/generative-ki-in-der-finanzbranche-risikobewertung-compliance-und-chancen-2026-3fjg) — Análisis sectorial para bancos, aseguradoras y fondos de inversión
+- [Transformación digital en la mediana empresa: Por qué la IA ya no es un lujo](https://dirkroethig.wordpress.com/2026/03/09/generative-ki-in-der-finanzbranche-risikobewertung-compliance-und-chancen-2026/) — Introducción a la necesidad estratégica de adoptar la IA
+
+---
+
+## Bibliografía
+
+1. Bitkom e.V. (2024): *Inteligencia Artificial en Alemania: Perspectivas de la sociedad y las empresas*. Berlín: Bitkom. Disponible en: https://www.bitkom.org/Bitkom/Publikationen/KI-in-Deutschland-Perspektiven
+
+2. Ministerio Federal de Economía y Acción por el Clima — BMWK (2025): *Digitalización e Inteligencia Artificial en la industria alemana*. Berlín: BMWK.
+
+3. Deloitte (2025): *AI ROI: The Paradox of Rising Investment and Elusive Returns*. Londres: Deloitte Insights. Disponible en: https://www.deloitte.com/global/en/issues/generative-ai/ai-roi-the-paradox-of-rising-investment-and-elusive-returns.html
+
+4. Asociación de Cámaras de Comercio e Industria Alemanas — DIHK (2024): *Digitalización en la mediana empresa alemana 2024: Adopción de IA, disposición a invertir y barreras*. Berlín: DIHK.
+
+5. Comisión Europea (2024): *EU Artificial Intelligence Act: Guide for SMEs*. Bruselas: EC Digital Strategy. Disponible en: https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
+
+6. Fraunhofer IAO (2024): *Cómo la mediana empresa puede aprovechar las oportunidades de la IA generativa*. Stuttgart: Fraunhofer IAO. Disponible en: https://www.iao.fraunhofer.de/de/presseservice/aktuelles/wie-der-mittelstand-die-chancen-generativer-ki-erschliessen-kann.html
+
+7. Fraunhofer IPA (2024): *Optimización de rutas y automatización logística asistidas por IA: Estudios de caso de la mediana empresa alemana*. Stuttgart: Fraunhofer IPA.
+
+8. Fraunhofer ISI (2024): *Artificial Intelligence in Production — Current Status and Outlook*. Nota de prensa n.º 28. Karlsruhe: Fraunhofer ISI. Disponible en: https://www.isi.fraunhofer.de/en/presse/2024/presseinfo-28-ki-produktion.html
+
+9. Instituto ifo (2024): *Inteligencia artificial — Cómo la utilizan las empresas y qué beneficios obtienen*. ifo Schnelldienst. Múnich: Instituto ifo. Disponible en: https://www.ifo.de/DocDL/sd-2024-09-falck-etal-kuenstliche-intelligenz-unternehmen.pdf
+
+10. Journal of Small Business Strategy (2024): *AI ROI in German Manufacturing SMEs: An Empirical Analysis of 8 Case Studies*. Nueva York: JSBS, Vol. 34(2), págs. 45–61.
+
+11. McKinsey Global Institute (2025): *The State of AI 2025: Global Survey Results*. Nueva York: McKinsey & Company. Disponible en: https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai
+
+12. OCDE (2025): *AI Adoption by Small and Medium-Sized Enterprises*. París: OECD Publishing. Disponible en: https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/12/ai-adoption-by-small-and-medium-sized-enterprises_9c48eae6/426399c1-en.pdf
+
+13. REWE Group (2025): *AI in Retail: Demand Forecasting and Inventory Management Results 2025*. Colonia: REWE Digital.
+
+14. Siemens AG (2024): *Digital Native Factory Erlangen: Four Years of AI and Automation*. Múnich: Siemens AG.
+
+---
+
+**Sobre el autor**: Dirk Röthig es CEO de VERDANTIS Impact Capital, con sede en Zug, Suiza. VERDANTIS es una plataforma de inversión de impacto especializada en créditos de carbono, agroforestería y soluciones basadas en la naturaleza. Dirk Röthig asesora a medianas empresas e inversores institucionales en la intersección de la digitalización, la financiación sostenible y la transformación impulsada por la IA.
+
+Contacto y más artículos: [verdantiscapital.com](https://www.verdantiscapital.com) | [LinkedIn](https://www.linkedin.com/in/dirkroethig)
