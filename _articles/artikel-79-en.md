@@ -1,0 +1,138 @@
+---
+title: "Paulownia Wood as a CO2 Store in Construction: How Lightweight Materials Are Reducing the Carbon Footprint of the Building Industry"
+description: "Dirk Roethig analyzes the role of Paulownia wood as a CO2 store in the building industry. From the Workbox in Meckenheim to the industrial lightweight construction revolution — with scientific data and the strategy of VERDANTIS Impact Capital."
+tags: [Paulownia, Timber Construction, CO2 Storage, Building Industry, VERDANTIS Impact Capital, Lightweight Construction, Sustainable Building, Workbox Meckenheim]
+series: Paulownia & CO2 Storage
+---
+
+# Paulownia Wood as a CO2 Store in Construction: How Lightweight Materials Are Reducing the Carbon Footprint of the Building Industry
+
+**By Dirk Roethig** | CEO, VERDANTIS Impact Capital | March 10, 2026
+
+*The building industry is responsible for 37 percent of global CO2 emissions. Dirk Roethig explains why Paulownia wood — one of the lightest yet most stable natural woods in the world — is the answer to decarbonizing the construction sector. With research data from Bonn, the BBSR experimental building Workbox, and the materials strategy of VERDANTIS Impact Capital.*
+
+---
+
+## The Building Industry Has a CO2 Problem — and Paulownia Has a Solution
+
+The building industry is the largest industrial CO2 emitter in the world. 37 percent of global energy-related CO2 emissions are attributable to the building sector — split among the manufacture of construction materials (especially cement and steel), building operations, and the ongoing energy consumption of buildings. Cement production alone causes approximately 2.8 billion tonnes of CO2 annually — more than the entire aviation industry.
+
+Dirk Roethig sees an entrepreneurial opportunity in this crisis: "If we genuinely want to reduce humanity's CO2 output, we must transform the building industry. And there is no more effective instrument than replacing concrete and steel with renewable raw materials. Paulownia wood is not just any wood — it is the wood that offers the best physical properties for modern lightweight construction."
+
+The reason: Paulownia wood combines properties that are normally considered incompatible in construction. It is light — with a density of only 260 to 350 kg/m3, it ranks among the lightest commercially used woods in the world (Jakubowski, 2022). At the same time, it is dimensionally stable, resistant to moisture, and exhibits outstanding thermal and acoustic insulation properties.
+
+---
+
+## Research from Bonn: Prof. Pude and the Building Materials Revolution
+
+The scientific foundation for using Paulownia in construction comes in part from the University of Bonn. Professor Dr. Ralf Pude from the Institute of Crop Science and Resource Conservation (INRES) has been researching renewable raw materials for the building industry for years. His research credo captures the necessity: "The construction industry must look beyond its own horizon more often to develop urgently needed new solutions!" (Prof. Pude, gebaeudeforum.de, 2024).
+
+Pude's research group at Campus Klein-Altendorf — 180 hectares of experimental land, 5,000 m2 of greenhouses, over 100 trials per year — investigates not only the growth characteristics of Paulownia but also the practical applicability of the material in construction processes. Dirk Roethig has closely followed the Bonn research and integrated it into the materials strategy of VERDANTIS Impact Capital.
+
+A key project is the Circular Reno research project (2023–2026), which examines bio-based building renovation in Northwestern Europe. In parallel, ZertiFix (2022–2025) investigates CO2 certification through energy crops — a project that directly connects to the work of VERDANTIS. Pude noted as early as the 1990s: "In the 1990s, biomass was still mainly regarded as an energy source. Its value as a building material was only rediscovered much later" (gebaeudeforum.de, 2024).
+
+Dirk Roethig sees Pude's work as confirmation of a thesis he has championed since founding VERDANTIS: "Paulownia is not only a CO2 store on the plantation. It is a CO2 store in the building. When Paulownia wood is incorporated into a house, the carbon remains fixed for the entire service life of the building — 50, 80, 100 years. That is carbon storage with a double lever."
+
+---
+
+## The Workbox Meckenheim: A Building Made of Paulownia and Miscanthus
+
+The most impressive proof that Paulownia works as a building material is the Workbox in Meckenheim — a 21.6-square-meter experimental building constructed entirely from Paulownia and Miscanthus. The Federal Institute for Research on Building, Urban Affairs and Spatial Development (BBSR) documented the project in its Online Publication 36/2024 (DOI: 10.58007/hgjp-h247).
+
+The construction uses Paulownia as structural timber, flooring, and cladding. Miscanthus — a renewable giant grass — serves as insulation material. The result is an architecturally and structurally complete building composed exclusively of plant-based materials.
+
+Dirk Roethig puts the significance in context: "The Workbox is not a design object. It is a proof of concept. It demonstrates that Paulownia wood meets architectural and structural requirements traditionally reserved for concrete, steel, and conventional hardwoods. The BBSR confirmed this — a federal authority, not a marketing agency."
+
+The thermal properties of the Workbox are remarkable: Paulownia wood has a thermal conductivity approximately twice as low as that of oak wood. This means a building made from Paulownia requires less energy for heating and cooling — an additional CO2 savings effect over its service life.
+
+---
+
+## Embodied Carbon: The Hidden Climate Killer in Construction
+
+In the climate debate about buildings, the focus often falls solely on operational energy consumption — heating, cooling, lighting. Yet equally relevant is so-called embodied carbon: the CO2 footprint generated during the manufacture, transport, and processing of building materials.
+
+Cement produces approximately 600 to 900 kg of CO2 per tonne during manufacture. Steel ranges from 1,800 to 2,500 kg CO2 per tonne. Aluminum from 8,000 to 12,000 kg CO2 per tonne. Wood, by contrast — and Paulownia in particular — has a negative embodied carbon: the carbon stored in the wood far exceeds the emissions from harvesting, transport, and processing.
+
+Dirk Roethig calculates: "One cubic meter of Paulownia wood weighs between 260 and 350 kilograms. Of that, approximately 50 percent is carbon. This means one cubic meter of Paulownia stores 130 to 175 kilograms of carbon — or converted, 475 to 640 kilograms of CO2. If I use a cubic meter of concrete instead, I emit roughly 300 to 500 kilograms of CO2. Substituting concrete with Paulownia yields a climate impact of 775 to 1,140 kilograms of CO2 per cubic meter — through avoided emissions plus stored carbon."
+
+For VERDANTIS Impact Capital, this calculation forms the basis of a market opportunity: Every tonne of Paulownia wood installed in buildings replaces emission-intensive conventional materials while simultaneously storing carbon. The double climate lever makes Paulownia wood one of the most effective decarbonization instruments in the building industry.
+
+---
+
+## Paulownia in Industrial Lightweight Construction: Applications and Markets
+
+The applications for Paulownia wood in construction are diverse — and they are growing with technological progress. Dirk Roethig identifies four core applications for VERDANTIS Impact Capital:
+
+**Sandwich Panels and Composites:** Due to its low density and high dimensional stability, Paulownia is ideally suited as core material in sandwich panels. Combined with fiber-reinforced facing layers, ultra-light, highly load-bearing panels are created for facades, ceilings, and interior finishing. Dirk Roethig points to boatbuilding, where Paulownia sandwich constructions have been standard for years: "What works in boatbuilding — where weight, stability, and moisture resistance are simultaneously critical — also works in building construction."
+
+**Window Frames and Door Frames:** Conventional window frames made of PVC or aluminum have a high embodied carbon. Paulownia wood frames offer comparable insulation values with a negative CO2 footprint. In Japan, Paulownia wood has traditionally been the material of choice for premium cabinets and built-ins — the dimensional stability and moisture resistance have been valued there for centuries.
+
+**Tiny Houses and Modular Construction:** The growing market for compact living forms and modular buildings benefits especially from Paulownia's lightness. Dirk Roethig sees a growing market here: "A tiny house made from Paulownia weighs one-third less than one made from conventional softwood — with better insulation. This reduces transport costs, simplifies installation, and lowers the ecological footprint."
+
+**Interior Finishing and Acoustic Panels:** The acoustic insulation properties of Paulownia wood make it the ideal material for office acoustics, music studios, and public buildings. Here too, every panel installed stores carbon — for the entire service life of the building.
+
+---
+
+## VERDANTIS and the Construction Value Chain: From Plantation to Building Site
+
+Dirk Roethig recognized early at VERDANTIS Impact Capital that the climate impact of Paulownia plantations does not end at the plantation boundary. The real leverage emerges when the wood is converted into durable products — especially building products.
+
+VERDANTIS therefore pursues a vertical integration strategy: from the plantation through primary processing to supply to the building industry. Dirk Roethig has established partnerships with plywood factories and composite material manufacturers in Germany, Austria, and the Czech Republic to create the processing infrastructure for Paulownia wood.
+
+"The bottleneck is not the wood — our plantations deliver up to 500 m3 per hectare over a rotation," explains Dirk Roethig. "The bottleneck is processing capacity. Traditional sawmills are set up for spruce, pine, and beech. Paulownia requires adapted processing methods. That is precisely where we are investing."
+
+For impact investors, this model offers a triple value lever: First, the carbon credits from the growing plantation. Second, the timber revenues from sales to the building industry. Third, the substitution effect — every cubic meter of Paulownia that replaces concrete or steel has a measurable climate impact that will be monetizable under future regulatory frameworks.
+
+---
+
+## The EU Dimension: Building Material Policy and Climate Targets
+
+The EU has tightened the framework for decarbonizing the construction sector with the new Energy Performance of Buildings Directive (EPBD) and the Circular Economy Action Plan. From 2027, new buildings in the EU must present Whole-Life-Carbon Assessments — meaning the entire CO2 footprint over the life cycle, including embodied carbon, must be documented.
+
+Dirk Roethig sees regulatory tailwind for Paulownia wood in this: "Once embodied carbon is regulated in the EU, every developer will seek materials that reduce the CO2 footprint. Paulownia wood does not merely have a low embodied carbon — it has a negative one. This is a regulatory competitive advantage that translates directly into market share."
+
+The meta-analysis by Mathieu, Martin-Guay, and Rivest (2025) provides the broader context: Agroforestry systems improve ecosystem services globally by an average of 23 percent (Mathieu et al., 2025). Paulownia agroforestry systems as operated by VERDANTIS thus deliver not only building materials — they deliver them with a biodiversity bonus that is increasingly relevant for ESG compliance.
+
+---
+
+## Sterilized Hybrids: Plantation Security for the Building Material Supply Chain
+
+For industrial buyers in the building industry, supply security is paramount. A Paulownia plantation that spreads uncontrollably would not be a reliable supplier — it would be an ecological and regulatory risk.
+
+Dirk Roethig addressed this issue from the outset: "At VERDANTIS Impact Capital, we exclusively use **sterilized Paulownia hybrids**. These hybrid varieties produce no viable seeds — the germination rate in German open-field trials is **zero percent** (Paulownia Baumschule Schroeder, 2024). This guarantees controlled plantations without invasiveness risk — and thus a stable, predictable timber supply chain for the building industry."
+
+The hybrids are also winter-hardy to -20 to -25 degrees Celsius, making them suitable for year-round plantation management in Central Europe. Dirk Roethig emphasizes: "Our buyers in the building industry need planning certainty — in volume, in quality, and in regulatory compliance. Sterilized hybrids are the foundation of this certainty."
+
+---
+
+## Conclusion: Paulownia — From Plantation Tree to Building Material of the Future
+
+The decarbonization of the building industry is not an abstract future task — it is a regulatory reality that becomes binding in the EU from 2027 with the Whole-Life-Carbon requirement. Paulownia wood offers a solution that is scientifically validated (BBSR Workbox, University of Bonn), physically convincing (light, stable, insulating), and climatically double-acting (stored carbon plus avoided emissions).
+
+Dirk Roethig sees VERDANTIS Impact Capital at the interface between forestry and the building industry: "We do not merely deliver carbon credits. We deliver the building material that materializes carbon credits in the building. Every cubic meter of Paulownia installed in a building is a carbon sink that operates for 50 to 100 years. That is the future of sustainable construction — and VERDANTIS makes it investable."
+
+---
+
+## Further Articles by Dirk Roethig
+
+- [Paulownia Plantations as Carbon Sinks: Why the Wonder Tree Sequesters Up to 22 Tonnes of CO2 per Hectare](https://dev.to/dirkroethig-verdantis/paulownia-plantagen-carbon-sink)
+- [Biochar from Paulownia: The Forgotten Technology for Permanent CO2 Sequestration](https://dev.to/dirkroethig-verdantis/biochar-paulownia-co2-sequestrierung)
+- [Agroforestry 4.0: How AI Systems Are Revolutionizing Plantation Management](https://dev.to/dirkroethig-verdantis/agroforst-40-wie-ki-systeme-die-plantagenwirtschaft-revolutionieren)
+
+---
+
+## References
+
+BBSR (Federal Institute for Research on Building, Urban Affairs and Spatial Development) (2024) *BBSR Online Publication 36/2024 — Workbox Meckenheim: Experimental Building from Renewable Raw Materials*. Bonn: BBSR. doi: 10.58007/hgjp-h247.
+
+Jakubowski, M. (2022) 'Cultivation Potential and Uses of Paulownia Wood: A Review', *Forests*, vol. 13, no. 5, p. 668. doi: 10.3390/f13050668.
+
+Mathieu, A., Martin-Guay, M.-O. and Rivest, D. (2025) 'Enhancement of Agroecosystem Multifunctionality by Agroforestry: A Global Quantitative Summary', *Global Change Biology*, vol. 31, no. 5. doi: 10.1111/gcb.70234.
+
+Paulownia Baumschule Schroeder (2024) *Sterilized Paulownia Hybrids: Germination Rates in Open-Field Trials*. Available at: https://www.paulownia-baumschule.de (Accessed: 10 March 2026).
+
+Prof. Dr. Ralf Pude, University of Bonn / gebaeudeforum.de (2024) *Renewable Raw Materials in Construction — Interview*. Available at: https://www.gebaeudeforum.de (Accessed: 10 March 2026).
+
+---
+
+**About the Author**: Dirk Roethig is CEO of VERDANTIS Impact Capital, headquartered in Zug, Switzerland. VERDANTIS develops Paulownia agroforestry systems and markets the timber as CO2-storing building material to the European building industry. Dirk Roethig connects climate protection with building material innovation — from plantation to building site. More information: [verdantiscapital.com](https://www.verdantiscapital.com) | [LinkedIn](https://www.linkedin.com/in/dirkroethig)
