@@ -1,0 +1,154 @@
+---
+title: "Biochar aus Paulownia: Die vergessene Technologie für permanente CO₂-Sequestrierung"
+description: "Dirk Röthig analysiert das Potenzial von Biochar (Pflanzenkohle) aus Paulownia-Holz als Instrument für permanente CO₂-Sequestrierung. Wissenschaftliche Grundlagen, Herstellungsverfahren und Marktperspektiven für VERDANTIS Impact Capital."
+tags: [Paulownia, Biochar, Pflanzenkohle, CO2-Sequestrierung, VERDANTIS Impact Capital, Carbon Removal, Pyrolyse]
+series: Paulownia & CO2-Speicherung
+---
+
+# Biochar aus Paulownia: Die vergessene Technologie für permanente CO₂-Sequestrierung
+
+**Von Dirk Röthig** | CEO, VERDANTIS Impact Capital | 10. März 2026
+
+*Pflanzenkohle — Biochar — ist eines der ältesten und gleichzeitig am meisten unterschätzten Instrumente zur dauerhaften CO₂-Entfernung aus der Atmosphäre. Dirk Röthig zeigt, warum Paulownia-Holz als Ausgangsmaterial für Biochar besonders geeignet ist und wie VERDANTIS Impact Capital diese Technologie in seine Klimaschutzstrategie integriert.*
+
+---
+
+## Das Problem der Permanenz: Warum CO₂-Speicherung nicht gleich CO₂-Speicherung ist
+
+Im freiwilligen Kohlenstoffmarkt gibt es ein fundamentales Problem, das viele Investoren und Unternehmen übersehen: die Frage der Permanenz. Ein Baum, der CO₂ bindet, gibt diesen Kohlenstoff wieder frei, wenn er verbrannt wird, verrottet oder einem Waldbrand zum Opfer fällt. Eine Aufforstung, die heute CO₂ speichert, kann morgen zur Emissionsquelle werden.
+
+Dirk Röthig kennt dieses Problem aus seiner täglichen Arbeit bei VERDANTIS Impact Capital: "Temporäre Kohlenstoffspeicherung ist besser als keine Speicherung. Aber wenn wir wirklich langfristig denken — und das müssen wir, wenn wir die Pariser Klimaziele erreichen wollen — brauchen wir Methoden, die den Kohlenstoff für Hunderte oder Tausende von Jahren fixieren. Biochar ist eine solche Methode."
+
+Pflanzenkohle, international als Biochar bekannt, wird durch Pyrolyse hergestellt — die thermische Zersetzung von Biomasse unter Sauerstoffausschluss bei Temperaturen zwischen 350°C und 700°C. Das Ergebnis ist ein hochporöses, kohlenstoffreiches Material, das im Boden über Jahrhunderte bis Jahrtausende stabil bleibt. Archäologische Funde der Terra Preta — der schwarzen Erde Amazoniens — belegen, dass von indigenen Völkern vor über 2.000 Jahren eingebrachte Pflanzenkohle bis heute im Boden nachweisbar ist und die Bodenfruchtbarkeit verbessert.
+
+---
+
+## Warum Paulownia-Holz als Biochar-Rohstoff herausragt
+
+Nicht jedes Holz eignet sich gleichermaßen für die Biochar-Produktion. Die physikalischen Eigenschaften des Ausgangsmaterials bestimmen die Qualität und die Kohlenstoff-Rückgewinnungsrate der Pflanzenkohle. Dirk Röthig hat in der Entwicklung der VERDANTIS-Strategie systematisch analysiert, welche Biomasse-Quellen für die Biochar-Produktion optimal geeignet sind.
+
+Paulownia-Holz hat eine Dichte von 260 bis 350 kg/m³ — es ist damit eines der leichtesten kommerziell genutzten Hölzer (Jakubowski, 2022). Diese geringe Dichte ist in der Biochar-Produktion ein Vorteil, nicht ein Nachteil. Das poröse Holz lässt sich gleichmäßig und energieeffizient pyrolysieren, und die resultierende Pflanzenkohle weist eine besonders hohe spezifische Oberfläche auf — ein Qualitätsmerkmal, das die Wasser- und Nährstoffhaltekapazität im Boden verbessert.
+
+Hinzu kommt der entscheidende quantitative Vorteil: Paulownia produziert außergewöhnlich viel Biomasse pro Hektar und Jahr. Jakubowski (2022) dokumentiert trockene Biomasse-Erträge von bis zu 14 t ha⁻¹ bereits im zweiten Kultivierungsjahr (Jakubowski, 2022). Über eine zehnjährige Rotation kann eine Paulownia-Plantage 500 m³ Holz pro Hektar liefern (paulownia-baumschule.de). Davon wird das Wertholz vermarktet — für Möbel, Bauwesen, Verbundwerkstoffe. Die minderwertigen Sortimente — Durchforstungsholz, Rinde, Äste — sind ideales Ausgangsmaterial für Biochar.
+
+Dirk Röthig beschreibt den Kreislauf: "Bei VERDANTIS nutzen wir eine Kaskadenstrategie. Das Stammholz geht in die hochwertige Verarbeitung — dort speichert es den Kohlenstoff über die Lebensdauer des Produkts. Die Nebenprodukte gehen in die Pyrolyse und werden zu Biochar. So wird jedes Kilogramm Biomasse optimal genutzt — einmal als Materialprodukt, einmal als permanente Kohlenstoffsenke."
+
+---
+
+## Die Wissenschaft der Pyrolyse: Wie aus Holz dauerhafte Kohlenstoffspeicher werden
+
+Die Pyrolyse von Holz ist ein gut verstandener thermochemischer Prozess. Bei Temperaturen zwischen 350°C und 700°C unter Sauerstoffausschluss werden die flüchtigen organischen Verbindungen des Holzes — Zellulose, Hemizellulose, Lignin — in Gase (Syngas), Flüssigkeiten (Bio-Öl) und einen festen Rückstand (Biochar) zerlegt.
+
+Der entscheidende Parameter für die Klimawirkung ist die Kohlenstoff-Rückgewinnungsrate: Wie viel des im Holz gespeicherten Kohlenstoffs verbleibt im Biochar? Je nach Pyrolysetemperatur und -dauer liegt dieser Wert zwischen 30 und 60 Prozent. Bei optimierter Slow Pyrolysis — langsamer Erhitzung bei 400°C bis 500°C — können 50 bis 60 Prozent des Kohlenstoffs im Biochar fixiert werden.
+
+Für die Rechnung von Dirk Röthig bedeutet das: Wenn eine Paulownia-Plantage jährlich zehn Tonnen Nebenproduktbiomasse pro Hektar liefert, und davon 50 Prozent des Kohlenstoffs in Biochar überführt werden, ergibt sich eine permanente CO₂-Sequestrierung von rund 9 bis 10 Tonnen CO₂ pro Hektar und Jahr — zusätzlich zur temporären Speicherung in der stehenden Biomasse und den Holzprodukten.
+
+"Das ist der Punkt, den viele übersehen", erklärt Dirk Röthig. "Eine Paulownia-Plantage ist nicht nur ein temporärer CO₂-Speicher. Durch die Integration von Biochar wird ein Teil des gebundenen Kohlenstoffs permanent dem Kreislauf entzogen — für Jahrhunderte. Das ist ein qualitativer Unterschied, der sich auch in der Bewertung der Carbon Credits widerspiegelt."
+
+---
+
+## Biochar im Boden: Dreifacher Klimanutzen
+
+Die Einbringung von Biochar in landwirtschaftliche Böden hat nicht nur den direkten Effekt der Kohlenstoffspeicherung. Wissenschaftliche Studien belegen einen dreifachen Klimanutzen.
+
+**Erstens: Direkte Kohlenstoffspeicherung.** Der im Biochar fixierte Kohlenstoff verbleibt im Boden über Hunderte bis Tausende von Jahren. Die Stabilität ist durch die aromatische Kohlenstoffstruktur des Biochars bedingt, die mikrobieller Zersetzung weitgehend widersteht.
+
+**Zweitens: Reduktion von Lachgasemissionen.** Lachgas (N₂O) ist ein Treibhausgas mit dem 298-fachen Erwärmungspotenzial von CO₂. Biochar-Anwendungen im Boden können N₂O-Emissionen aus landwirtschaftlichen Flächen um 10 bis 40 Prozent reduzieren — durch veränderte Bodenbelüftung und mikrobielle Dynamiken.
+
+**Drittens: Erhöhung des Bodenkohlenstoffs.** Biochar stimuliert die Bildung von Bodenhumus und stabilisiert organische Bodensubstanz. Die Metaanalyse von Pan et al. (2024) bestätigt, dass Agroforstsysteme den Bodenkohlenstoffgehalt signifikant erhöhen — mit dem stärksten Effekt in ariden Zonen (Pan et al., 2024). Biochar verstärkt diesen Effekt, weil es als Habitat für Bodenorganismen dient und die Wasserspeicherkapazität erhöht.
+
+Dirk Röthig bringt es auf den Punkt: "Biochar ist keine Einbahnstraße. Es speichert Kohlenstoff, es reduziert Lachgasemissionen und es verbessert den Boden. Drei Klimawirkungen in einem Produkt — und das Ganze permanent."
+
+---
+
+## Der europäische Biochar-Markt 2026: Regulierung und Zertifizierung
+
+Der europäische Biochar-Markt befindet sich in einer Phase rasanten Wachstums. Die EU-Verordnung zum Carbon Removal Certification Framework (CRCF), die 2024 verabschiedet wurde, schafft erstmals einen harmonisierten Rechtsrahmen für die Zertifizierung von CO₂-Entnahmen — einschließlich Biochar.
+
+Dirk Röthig hat die regulatorische Entwicklung von Beginn an verfolgt: "Der CRCF ist ein Meilenstein. Zum ersten Mal unterscheidet die EU-Regulierung explizit zwischen temporärer Speicherung und dauerhafter Entnahme. Biochar fällt unter dauerhafte Entnahme — und das bedeutet einen höheren Zertifikatswert."
+
+Auf dem freiwilligen Kohlenstoffmarkt liegen die Preise für Biochar-basierte Carbon Removal Credits derzeit zwischen 80 und 200 Euro pro Tonne CO₂ — ein Vielfaches der 12 bis 25 Euro, die für konventionelle Aufforstungs-Credits erzielt werden. Der Grund ist die Permanenz: Käufer zahlen mehr für Zertifikate, die nachweislich dauerhaft sind.
+
+Für VERDANTIS Impact Capital eröffnet sich damit ein zweiter, hochpreisiger Erlöskanal neben den konventionellen Carbon Credits aus der lebenden Biomasse. Dirk Röthig hat die Biochar-Produktion als strategische Erweiterung des VERDANTIS-Geschäftsmodells positioniert: "Wir verkaufen nicht nur temporäre Credits aus der stehenden Biomasse. Wir verkaufen auch permanente Removal Credits aus Biochar. Zwei Produkte, eine Plantage, maximaler Klimaeffekt."
+
+---
+
+## VERDANTIS und die Biochar-Kaskade: Von der Plantage zum permanenten Speicher
+
+Dirk Röthig hat für VERDANTIS Impact Capital ein integriertes Kaskadenmodell entwickelt, das die Wertschöpfung einer Paulownia-Plantage maximiert:
+
+**Stufe 1 — Stehende Biomasse:** Die wachsende Plantage bindet 22 bis 40 Tonnen CO₂ pro Hektar und Jahr. Dieser Kohlenstoff ist temporär in der Biomasse gespeichert und generiert konventionelle Carbon Credits.
+
+**Stufe 2 — Wertholz:** Nach der Ernte wird das hochwertige Stammholz in langlebige Produkte verarbeitet — Möbel, Bauplatten, Verbundwerkstoffe. Der Kohlenstoff bleibt über die Produktlebensdauer (20 bis 100 Jahre) fixiert. Die Erlöse aus dem Holzverkauf — bei Paulownia 800 bis 1.800 EUR/m³ (paulownia-baumschule.de) — finanzieren den Plantagenbetrieb.
+
+**Stufe 3 — Biochar aus Nebenprodukten:** Durchforstungsholz, Äste, Rinde und Erntereste werden zu Biochar pyrolysiert. Der Kohlenstoff wird permanent im Boden fixiert und generiert hochpreisige Carbon Removal Credits (80–200 EUR/t CO₂).
+
+**Stufe 4 — Energierückgewinnung:** Die bei der Pyrolyse anfallenden Gase und Bio-Öle können als Prozessenergie für die Pyrolyseanlage selbst oder als Wärmequelle für angrenzende landwirtschaftliche Betriebe genutzt werden. Das macht den Prozess energetisch weitgehend autark.
+
+"Diese Kaskade ist der Schlüssel", erklärt Dirk Röthig. "Jede Stufe generiert einen eigenen Wertbeitrag — wirtschaftlich und klimatisch. Am Ende steht ein System, das mehr Kohlenstoff permanent aus der Atmosphäre entfernt als jede andere landbasierte Lösung."
+
+---
+
+## Paulownia versus andere Biochar-Rohstoffe
+
+Warum nicht einfach Maisstroh, Reishülsen oder Forstabfälle zu Biochar verarbeiten? Dirk Röthig erläutert die komparativen Vorteile von Paulownia:
+
+**Biomassemenge:** Paulownia produziert mehr Biomasse pro Hektar als konventionelle europäische Baumarten — bis zu 25,4 odt ha⁻¹ yr⁻¹ in Spitzenjahren (Forest Ecology and Management, 2025). Landwirtschaftliche Reststoffe wie Stroh sind zwar verfügbar, aber ihre Sammlung ist logistisch aufwendig und saisonabhängig.
+
+**Holzqualität:** Die geringe Dichte und hohe Porosität von Paulownia-Holz ermöglichen eine gleichmäßige Pyrolyse und eine Pflanzenkohle mit überdurchschnittlich hoher spezifischer Oberfläche.
+
+**Wertschöpfungskaskade:** Nur bei Paulownia lässt sich die Biomasse sinnvoll in Wertholz und Biochar-Rohstoff aufteilen. Bei reinen Energiepflanzen wie Miscanthus oder Switchgrass fehlt der Wertholz-Erlös — die Wirtschaftlichkeit hängt allein am Carbon-Credit-Preis.
+
+**Zusätzliche CO₂-Bindung:** Die stehende Plantage bindet während des Wachstums bereits CO₂. Das Biochar kommt on top. Bei landwirtschaftlichen Reststoffen gibt es diese Zusatzbindung nicht — das Stroh hätte ohnehin verrottet.
+
+Dirk Röthig resümiert: "Paulownia ist nicht nur der beste Baum für Carbon Sinks. Er ist auch der beste Rohstoff für Biochar. Diese Doppelfunktion — temporäre Speicherung in der Biomasse, permanente Speicherung im Biochar — macht Paulownia zum vollständigsten Klimaschutzinstrument, das die pflanzliche Welt zu bieten hat."
+
+---
+
+## Sterilisierte Hybride: Auch für die Biochar-Strategie entscheidend
+
+Ein Detail, das Dirk Röthig betont: Auch in der Biochar-Strategie ist der Einsatz sterilisierter Paulownia-Hybride von VERDANTIS Impact Capital keine Nebensache, sondern ein zentrales Qualitätsmerkmal.
+
+Sterilisierte Hybride mit einer **Keimrate von null Prozent** in deutschen Freilandversuchen (Paulownia Baumschule Schröder, 2024) garantieren, dass die Plantagen kontrolliert bewirtschaftet werden können — ohne Risiko unkontrollierter Ausbreitung. Die Hybride sind zudem winterhart bis -20 bis -25°C und damit für ganzjährige Bewirtschaftung in Mitteleuropa geeignet.
+
+Für die Biochar-Zertifizierung ist die Nachverfolgbarkeit des Rohstoffs entscheidend. VERDANTIS kann lückenlos dokumentieren, woher die Biomasse stammt, unter welchen Bedingungen sie gewachsen ist und dass keine invasiven Arten im Spiel sind. "Die Zertifizierungsstandards werden strenger", sagt Dirk Röthig. "Wer Biochar-Credits verkaufen will, muss die gesamte Lieferkette transparent machen. Mit unseren sterilisierten Hybriden und dem KI-gestützten Monitoring haben wir diese Transparenz von Tag eins."
+
+---
+
+## Ausblick: Biochar als Pfeiler der europäischen Carbon-Removal-Strategie
+
+Die Europäische Kommission hat in ihrer Industrial Carbon Management Strategy das Ziel formuliert, bis 2040 mindestens 50 Millionen Tonnen CO₂ pro Jahr dauerhaft aus der Atmosphäre zu entfernen. Biochar ist eine der wenigen Technologien, die bereits heute marktreif, skalierbar und wissenschaftlich validiert sind.
+
+Dirk Röthig sieht VERDANTIS Impact Capital in einer privilegierten Position: "Wir haben die Plantagen, den Rohstoff, die Technologie und die Zertifizierungsinfrastruktur. Was fehlt, ist Skalierung — und dafür brauchen wir Investoren, die verstehen, dass Biochar aus Paulownia nicht nur ein Klimaschutzinstrument ist, sondern ein Geschäftsmodell mit messbarer Rendite."
+
+Die vergessene Technologie ist auf dem Weg, zum Pfeiler der europäischen Carbon-Removal-Strategie zu werden. Und Paulownia — mit seiner einzigartigen Kombination aus Wachstumsgeschwindigkeit, Holzqualität und Biochar-Eignung — steht im Zentrum dieser Entwicklung.
+
+---
+
+## Weiterführende Artikel von Dirk Röthig
+
+- [Paulownia-Plantagen als Carbon Sink: Warum der Wunderbaum bis zu 22 Tonnen CO₂ pro Hektar bindet](https://dev.to/dirkroethig-verdantis/paulownia-plantagen-carbon-sink)
+- [EU-Agrarwende 2026: Wie Paulownia-Agroforstsysteme 31,8 Mt CO₂ pro Jahr binden können](https://dev.to/dirkroethig-verdantis/eu-agrarwende-2026-paulownia-agroforstsysteme)
+- [CO2-Bindung in Echtzeit: KI-gestütztes Carbon Accounting für Agroforst-Investitionen](https://dev.to/dirkroethig-verdantis/co2-bindung-in-echtzeit-ki-gestuetzte-carbon-accounting-fuer-agroforst)
+
+---
+
+## Quellenverzeichnis
+
+Forest Ecology and Management (2025) 'Height growth and total volume production models for short rotation Paulownia plantations'. Available at: https://www.sciencedirect.com/science/article/pii/S0378112725006528 (Accessed: 10 March 2026).
+
+Ghazzawy, H.S., Bakr, A., Mansour, A.T. and Ashour, M. (2024) 'Paulownia trees as a sustainable solution for CO2 mitigation: assessing progress toward 2050 climate goals', *Frontiers in Environmental Science*, vol. 12, art. 1307840. doi: 10.3389/fenvs.2024.1307840.
+
+Jakubowski, M. (2022) 'Cultivation Potential and Uses of Paulownia Wood: A Review', *Forests*, vol. 13, no. 5, p. 668. doi: 10.3390/f13050668.
+
+Joshi, N.R. and Pant, G. (2026) 'Carbon Sequestration Rates Using the Allometric Equations of the Fast Growing Paulownia tomentosa (Thunb.) in Central Nepal', *NPRC Journal of Multidisciplinary Research*, vol. 3, no. 2, pp. 65–89. doi: 10.3126/nprcjmr.v3i2.91267.
+
+Pan, J., Chen, S., He, D. et al. (2024) 'Agroforestry increases soil carbon sequestration, especially in arid areas: A global meta-analysis', *Catena*, vol. 245, art. 108667. doi: 10.1016/j.catena.2024.108667.
+
+Paulownia Baumschule Schröder (2024) *Sterilisierte Paulownia-Hybride: Keimrate in Freilandversuchen*. Available at: https://www.paulownia-baumschule.de (Accessed: 10 March 2026).
+
+paulownia-baumschule.de (o.J.) *Wirtschaftlichkeit von Paulownia-Plantagen*. Available at: https://www.paulownia-baumschule.de (Accessed: 10 March 2026).
+
+---
+
+**Über den Autor**: Dirk Röthig ist CEO von VERDANTIS Impact Capital mit Sitz in Zug, Schweiz. VERDANTIS entwickelt integrierte Paulownia-Agroforstsysteme mit Biochar-Kaskadennutzung — für temporäre und permanente CO₂-Speicherung. Dirk Röthig verbindet wissenschaftliche Evidenz mit kapitalmarktfähigen Klimaschutzlösungen. Weitere Informationen: [verdantiscapital.com](https://www.verdantiscapital.com) | [LinkedIn](https://www.linkedin.com/in/dirkroethig)
