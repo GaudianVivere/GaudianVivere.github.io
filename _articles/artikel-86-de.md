@@ -1,0 +1,228 @@
+---
+title: "Paulownia im Agroforst: So integrieren Landwirte den Klimabaum in ihren Betrieb"
+description: "Praxisleitfaden für Landwirte: Wie Paulownia-Hybride in bestehende Acker- und Grünlandsysteme integriert werden — Alley Cropping, Förderung und Ertragsrechnung."
+tags: [agroforst, paulownia, landwirtschaft, klimaschutz]
+series: "Paulownia & Klimaschutz"
+cover_image: https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=1200
+---
+
+# Paulownia im Agroforst: So integrieren Landwirte den Klimabaum in ihren Betrieb
+
+**Von Dirk Röthig** | CEO, VERDANTIS Impact Capital | 10. März 2026
+
+*In Deutschland sind gerade einmal 1.703 Hektar als Agroforstsysteme registriert — bei einer landwirtschaftlichen Nutzfläche von 16,6 Millionen Hektar. Die Bundesregierung will bis 2027 auf 11.500 Hektar kommen. Die GAP-Prämie für Agroforst hat sich 2026 auf 600 Euro pro Hektar verdreifacht. Für Landwirte, die ihren Betrieb klimaresilient und wirtschaftlich zukunftsfähig aufstellen wollen, öffnet sich ein Fenster — und Paulownia-Hybride sind der Schlüssel dazu. Dieser Artikel ist ein Praxisleitfaden: Vom Pflanzschema über die Kulturenauswahl bis zur Förderantragstellung.*
+
+**Tags**: Agroforst, Paulownia, Landwirtschaft, Klimaschutz
+
+---
+
+## Warum Agroforst — und warum jetzt?
+
+Die europäische Landwirtschaft steckt in einem strukturellen Dilemma. Einerseits fordern Klimawandel, Bodendegradation und Biodiversitätsverlust eine grundlegende Transformation der Bewirtschaftung. Andererseits stehen Betriebe unter enormem Kostendruck — jeder Quadratmeter muss Ertrag liefern. Agroforstwirtschaft löst diesen Widerspruch, indem sie Bäume und landwirtschaftliche Kulturen auf derselben Fläche kombiniert — nicht als Kompromiss, sondern als Synergie.
+
+Die Zahlen sprechen für sich: Laut dem Deutschen Fachverband für Agroforstwirtschaft (DeFAF) waren im Dezember 2024 lediglich 203 Agroforstsysteme mit einer Gesamtfläche von 1.703 Hektar auf der DeFAF-Agroforstflächen-Karte registriert (DeFAF, 2024). Die reale Fläche dürfte höher liegen, da nicht alle bestehenden Systeme erfasst sind — aber sie ist gemessen am Potenzial verschwindend gering. Der GAP-Strategieplan der Bundesregierung sieht bis 2027 eine Gesamtfläche von 11.500 Hektar Agroforstsystemen vor, mit insgesamt 65.000 Hektar geförderter Gehölzfläche (BMEL, 2023). Die Lücke zwischen Ist und Soll ist enorm — und damit die Chance für Landwirte, die früh einsteigen.
+
+Brandenburg führt mit rund 362 Hektar registrierter Agroforstfläche, gefolgt von Niedersachsen und Bayern (DeFAF, 2024). Bundesweit entfallen 46 Prozent der Fläche auf silvoarable Systeme — also die Kombination von Bäumen mit Ackerbau — und 39 Prozent auf silvopastorale Systeme mit Weidewirtschaft (DeFAF, 2024). Beide Modelle eignen sich hervorragend für die Integration von Paulownia-Hybriden.
+
+---
+
+## Modell 1: Alley Cropping — Paulownia-Streifen zwischen Ackerkulturen
+
+Das Alley-Cropping-System ist das am besten erforschte Agroforstmodell für die Integration von Paulownia in bestehende Ackerbaubetriebe. Das Prinzip: Gehölzstreifen aus Paulownia-Hybriden werden in regelmäßigen Abständen auf dem Acker angelegt. Zwischen den Baumstreifen wird konventionell oder ökologisch weitergewirtschaftet — mit Weizen, Mais, Raps, Kartoffeln oder Leguminosen.
+
+### Optimale Pflanzgeometrie
+
+Die Forschung liefert klare Empfehlungen für die räumliche Anordnung. In einer wegweisenden Studie zur optimalen Größe von Paulownia-Agroforst-Systemen auf der Nordchinesischen Ebene ermittelten Newman et al. (2019), dass der optimale Aufbau aus zwei Baumreihen im Abstand von vier Metern besteht, wobei der Effekt der Beschattung auf die Erntekulturen ab einer Entfernung von 15 Metern vom Baumstreifen statistisch nicht mehr signifikant ist (Newman et al., 2019). Für mitteleuropäische Verhältnisse empfiehlt sich daraus folgendes Pflanzschema:
+
+- **Baumstreifen-Breite**: 3 bis 6 Meter (ein- oder zweireihig)
+- **Abstand zwischen Baumstreifen**: 24 bis 48 Meter (für maschinelle Bearbeitung optimiert)
+- **Pflanzabstand innerhalb des Streifens**: 3 bis 4 Meter zwischen den Bäumen
+- **Ausrichtung**: Nord-Süd bevorzugt (gleichmäßigere Lichtverteilung auf die Ackerfläche)
+
+### Lichtmanagement: Der entscheidende Erfolgsfaktor
+
+Das Hauptbedenken von Landwirten gegenüber Agroforst lautet: „Die Bäume nehmen meinen Kulturen das Licht." Bei Paulownia ist dieses Bedenken berechtigt — aber beherrschbar. Yin und He (1997) dokumentierten in einer Langzeitstudie, dass die photosynthetisch aktive Strahlung (PAR) innerhalb eines Paulownia-Weizen-Intercropping-Systems während der Blüte um 22 Prozent, während der Kornfüllung um 44 Prozent und während der Abreife um 56 Prozent reduziert wurde (Yin und He, 1997).
+
+Diese Reduktion klingt dramatisch — ist aber aus drei Gründen weniger problematisch als zunächst befürchtet:
+
+**Erstens** ist Paulownia ein laubabwerfender Baum, der sehr spät austreibt — in Mitteleuropa erst Ende April bis Anfang Mai. Die kritische Wachstumsphase von Winterweizen (Bestockung, Schossen) fällt damit in die laublose Periode. Die Beschattung betrifft vor allem die späte Vegetationsperiode, wenn der Kornertrag bereits weitgehend determiniert ist.
+
+**Zweitens** kann regelmäßiger Kronenschnitt (alle zwei bis drei Jahre) die Beschattung erheblich reduzieren. Das Schnittgut dient als Mulchmaterial oder Biomasse-Rohstoff — ein zusätzlicher Verwertungsweg.
+
+**Drittens** profitieren bestimmte Kulturen sogar von der Teilbeschattung. Unter zunehmenden Hitzesommern — wie sie in Deutschland seit 2018 regelmäßig auftreten — kann eine moderate Beschattung Trockenstress bei Kulturen wie Kartoffeln, Salat, Erdbeeren oder Kräutern reduzieren und den Ertrag stabilisieren.
+
+### Kulturenauswahl: Was wächst gut neben Paulownia?
+
+Nicht jede Kultur eignet sich gleichermaßen für das Alley Cropping mit Paulownia. Basierend auf den chinesischen Intercropping-Studien und europäischen Praxiserfahrungen ergibt sich folgende Empfehlung:
+
+| Eignung | Kulturen | Begründung |
+|---------|----------|------------|
+| Sehr gut | Winterweizen, Wintergerste, Raps | Hauptwachstum vor Paulownia-Austritt |
+| Gut | Kartoffeln, Leguminosen, Kräuter | Profitieren von Teilbeschattung bei Hitze |
+| Bedingt | Mais, Sonnenblumen | Hoher Lichtbedarf, aber tolerant in frühen Phasen |
+| Weniger geeignet | Zuckerrüben | Lichtempfindlich über gesamte Vegetationsperiode |
+
+Für den praktischen Betrieb bedeutet das: Die Fruchtfolge auf der Ackerfläche zwischen den Paulownia-Streifen muss an die Lichtdynamik angepasst werden — mit lichttoleranten Kulturen in den Reihen unmittelbar neben den Bäumen und lichtbedürftigeren Kulturen in der Streifenmitte.
+
+---
+
+## Modell 2: Silvopasture — Paulownia auf dem Grünland
+
+Das zweite Integrationsmodell richtet sich an Grünland- und Weidebetriebe. Silvopastorale Systeme — die Kombination von Bäumen mit Tierhaltung auf der Weide — machen laut DeFAF bereits 39 Prozent der deutschen Agroforstfläche aus (DeFAF, 2024). Paulownia bietet hier spezifische Vorteile, die andere Baumarten nicht in gleichem Maß liefern.
+
+### Hitzeschutz für Weidetiere
+
+In den Hitzesommern 2018, 2019, 2022 und 2023 dokumentierten Tiergesundheitsberichte erheblichen Hitzestress bei Weiderindern und -schafen. Silvopasture-Forschung zeigt konsistent, dass Schattenbäume die Leistung von Weidetieren messbar verbessern: Gewichtszunahmen steigen um bis zu 10 Prozent, der Bedarf an Ergänzungsfutter sinkt um bis zu 50 Prozent, und die Milchleistung bei Kühen steigt um 8 bis 20 Prozent (World Tree, 2025; Cornell University, 2018). Eine Studie der Virginia Tech University belegte zudem, dass Cortisol-Werte — ein Indikator für Stress — bei Schafen in beschatteten Weidesystemen signifikant niedriger liegen als auf offenen Weideflächen (Cornell University, 2018).
+
+Paulownia eignet sich besonders für Silvopasture, weil die großen Blätter schnell ein dichtes Schattendach bilden — deutlich schneller als heimische Baumarten wie Eiche oder Buche, die Jahrzehnte für eine vergleichbare Kronengröße benötigen. Die Rinde enthält Bitterstoffe, die Verbissschäden durch Rinder und Schafe weitgehend verhindern — ein Wildschutzzaun ist in der Regel nicht erforderlich.
+
+### Pflanzschema für Grünland
+
+Für silvopastorale Systeme mit Paulownia empfiehlt sich ein weiterer Pflanzabstand als im Alley Cropping:
+
+- **Pflanzabstand**: 8 × 8 Meter oder 10 × 10 Meter (156 bis 100 Bäume pro Hektar)
+- **Baumschutz in den ersten zwei Jahren**: Einzelbaumschutz mit Drahthose statt Flächenzaun
+- **Beweidung**: Ab dem dritten Standjahr, wenn der Stammdurchmesser 10+ cm erreicht hat
+- **Nutzung**: Holzernte alle 8 bis 10 Jahre durch Wiederaustrieb aus dem Wurzelstock
+
+---
+
+## Die GAP-Förderkulisse 2026: 600 Euro pro Hektar für Agroforst
+
+Für Landwirte, die über Agroforst mit Paulownia nachdenken, ist die aktuelle Förderkulisse der stärkste ökonomische Anreiz seit Einführung der GAP-Strategiepläne 2023. Die Öko-Regelung 3 (ÖR3) „Beibehaltung einer agroforstlichen Bewirtschaftungsweise auf Acker- und Dauergrünland" wurde grundlegend verbessert.
+
+### Was hat sich 2026 geändert?
+
+Die Agrarministerkonferenz hat die Prämie für Agroforst im Rahmen der ÖR3 von 200 Euro auf **600 Euro pro Hektar Gehölzfläche** verdreifacht (Agrarheute, 2026; top agrar, 2026). Das ist ein klares politisches Signal: Agroforst wird als Klimaschutzmaßnahme endlich angemessen honoriert.
+
+Weitere Vereinfachungen ab 2025/2026:
+
+- **Mindestbreite entfällt**: Gehölzstreifen müssen keine Mindestbreite mehr einhalten — das erleichtert schmale Streifen auf kleinen Schlägen (BMEL, 2025).
+- **Kein Nutzungskonzept mehr erforderlich**: Die bisherige Pflicht, ein Nutzungskonzept vorzulegen und prüfen zu lassen, wurde gestrichen (DeFAF, 2025).
+- **Maximaler Gehölzanteil auf 40 Prozent erhöht**: Statt bisher 35 Prozent dürfen jetzt bis zu 40 Prozent der förderfähigen Fläche mit Gehölzstreifen bestockt sein (BMEL, 2025).
+- **Mindestens zwei Gehölzstreifen** mit maximal 100 Metern Abstand und maximal 25 Metern Streifenbreite bleiben als strukturelle Anforderungen bestehen (BMEL, 2025).
+
+### Rechenbeispiel: 50-Hektar-Ackerbaubetrieb
+
+Ein konkretes Förderszenario für einen typischen Ackerbaubetrieb:
+
+| Parameter | Wert |
+|-----------|------|
+| Betriebsfläche | 50 ha Ackerland |
+| Gehölzstreifen-Anteil | 10 % = 5 ha |
+| ÖR3-Prämie (600 €/ha Gehölz) | 3.000 €/Jahr |
+| Ackerfläche zwischen Streifen | 45 ha (weiter bewirtschaftet) |
+| Ertragseinbuße Acker (geschätzt 5–10 %) | -2.250 bis -4.500 €/Jahr |
+| **Holzerlös ab Jahr 8** (5 ha × 250 m³ × 300 €/m³) | **375.000 € pro Erntezyklus** |
+| **CO₂-Bindung** (5 ha × 30 t/ha/Jahr) | **150 t CO₂/Jahr** |
+
+Die Förderung von 3.000 Euro jährlich kompensiert einen Teil der Ertragseinbußen auf der Ackerfläche. Der eigentliche Gewinn liegt im Holzerlös ab dem achten Standjahr und — je nach Zertifizierung — in handelbaren Carbon Credits. VERDANTIS Impact Capital unterstützt Landwirte bei der Zertifizierung ihrer Agroforst-Flächen und der Vermarktung der generierten CO₂-Zertifikate.
+
+---
+
+## Bodenverbesserung: Warum Paulownia Ihrem Acker langfristig hilft
+
+Einer der am stärksten unterschätzten Vorteile von Paulownia in Agroforstsystemen ist die bodenverbessernde Wirkung — ein Aspekt, der in den anderen Diskussionen um CO₂-Bindung und Holzerlös oft untergeht.
+
+**Tiefe Pfahlwurzeln gegen Nährstoffauswaschung.** Paulownia bildet ein tiefreichendes Pfahlwurzelsystem aus, das Nährstoffe aus Bodenschichten erschließt, die für Ackerkulturen unerreichbar sind. Dieser „Nährstoff-Aufzug" — die Aufnahme von Kalium, Phosphor und Spurenelementen aus der Tiefe und deren Freisetzung über das Falllaub an der Bodenoberfläche — verbessert langfristig die Nährstoffverfügbarkeit im Oberboden (Agrarheute, 2025; Paulownia-Baumschule Schröder, 2024).
+
+**Erosionsschutz durch Wurzelwerk.** Auf erosionsgefährdeten Standorten — Hanglagen, sandige Böden, Lössstandorte — stabilisieren die Paulownia-Wurzeln den Boden mechanisch. In Kombination mit der Windbrecher-Funktion der Baumstreifen reduziert sich die Wind- und Wassererosion erheblich.
+
+**Humusaufbau durch Laubfall.** Die großen Paulownia-Blätter — einzelne Blätter erreichen über 60 Zentimeter Durchmesser — verrotten schnell und bilden eine nährstoffreiche Mulchschicht. Über mehrere Jahre führt dies zu einem messbaren Anstieg des Humusgehalts im Boden um die Baumstreifen herum (Forstpraxis, 2025). Für Landwirte, die nach GLÖZ 6 (Mindestbodenbedeckung) und GLÖZ 7 (Fruchtwechsel) ohnehin zum Schutz der Bodengesundheit verpflichtet sind, ist dieser Nebeneffekt besonders wertvoll.
+
+**Wasserregulierung.** Paulownia-Wurzeln lockern verdichtete Unterbodenschichten (Pflugsohlenverdichtung) auf und verbessern die Wasserinfiltration. Gleichzeitig reduzieren die Baumstreifen die Windgeschwindigkeit auf der Ackerfläche um 20 bis 40 Prozent, was die Evapotranspiration senkt und die Bodenfeuchtigkeit stabilisiert — ein zunehmend kritischer Faktor in den trockenen Frühsommern Mitteleuropas.
+
+---
+
+## Sterilisierte Hybride: Sicherheit für den landwirtschaftlichen Betrieb
+
+Ein berechtigtes Anliegen von Landwirten betrifft die Frage der Invasivität. Wer Bäume auf seinen Acker pflanzt, will sicher sein, dass diese nicht unkontrolliert in die angrenzende Kulturlandschaft oder in Naturschutzgebiete ausbreiten. Bei Paulownia ist diese Sorge verständlich — aber bei der Verwendung sterilisierter Hybride unbegründet.
+
+Die Wildform Paulownia tomentosa steht auf der Grauen Liste des Bundesamtes für Naturschutz (BfN) als „potenziell invasiv". Diese Einstufung ist korrekt — für die Wildform. Doch bei professionellen Agroforst-Projekten, wie sie VERDANTIS Impact Capital realisiert, kommen ausschließlich sterilisierte Paulownia-Hybride zum Einsatz. Diese Hybride — typischerweise Kreuzungen aus P. elongata und P. fortunei — werden in vitro vermehrt und produzieren keine keimfähigen Samen.
+
+Die Datenlage ist eindeutig: In deutschen Freilandversuchen der Paulownia-Baumschule Schröder lag die Keimrate bei **null Prozent** (Paulownia-Baumschule Schröder, 2024). Der Hybrid Paulownia Z07 gilt aufgrund der fehlenden generativen Vermehrung als nachweislich nicht invasiv (Energiepflanzen.com, 2025). Moderne Hybridzüchtungen halten Fröste bis **minus 20 bis minus 25 Grad Celsius** stand — ausreichend für alle Anbauregionen Deutschlands.
+
+Für den landwirtschaftlichen Praktiker bedeutet das: Null Prozent Keimrate gleich null Prozent Risiko einer unkontrollierten Ausbreitung. Kein Wildwuchs auf dem Nachbarschlag, kein Eintrag in Naturschutzflächen, kein regulatorisches Problem.
+
+Dennoch bleibt die regulatorische Einordnung unbefriedigend. Die pauschale Verortung auf der Grauen Liste — ohne Differenzierung zwischen Wildform und sterilisierten Hybriden — verunsichert Landwirte und bremst die Adoption. Der Deutsche Fachverband für Agroforstwirtschaft und zahlreiche Wissenschaftler fordern eine Neubewertung: Sterilisierte Paulownia-Hybride sollten auf die **Grüne Liste der EU** gesetzt werden — als empfohlene Art für nachhaltige Landnutzung und Agroforst-Systeme. Solange diese Differenzierung ausbleibt, wird das Potenzial für Klimaschutz und Bioökonomie in der deutschen Landwirtschaft nicht ausgeschöpft.
+
+---
+
+## VERDANTIS Impact Capital: Partner für die Praxis
+
+Der Schritt vom Interesse zur Umsetzung ist für viele Landwirte die größte Hürde. Welchen Hybrid pflanze ich? Wie stelle ich den Förderantrag? Wer zertifiziert meine CO₂-Bindung? Dirk Röthig, CEO von VERDANTIS Impact Capital, kennt diese Fragen aus hunderten Gesprächen mit Betriebsleitern: „Der Landwirt will kein Forschungsprojekt — er will eine wirtschaftliche Lösung, die in seinen Betriebsablauf passt. Genau das liefern wir."
+
+VERDANTIS Impact Capital bietet Landwirten ein integriertes Paket für die Paulownia-Agroforst-Integration:
+
+- **Standortanalyse und Pflanzplanung**: Bodenuntersuchung, Klimadatenauswertung, optimales Pflanzschema für den jeweiligen Betrieb
+- **Zertifiziertes Pflanzgut**: Sterilisierte Paulownia-Hybride mit nachgewiesener Frosthärte und Sterilität
+- **Fördermittelberatung**: Unterstützung bei ÖR3-Antragstellung und Kombination mit weiteren Öko-Regelungen
+- **Carbon-Credit-Zertifizierung**: Quantifizierung der CO₂-Bindung nach validierten allometrischen Methoden, Zugang zum freiwilligen Kohlenstoffmarkt
+- **Holzvermarktung**: Abnahmegarantie für Paulownia-Wertholz ab dem achten Standjahr
+
+Unternehmen wie VERDANTIS Impact Capital zeigen, dass Paulownia-basierte Agroforst-Systeme die kostengünstigste Möglichkeit bieten, landwirtschaftliche Betriebe klimaresilient zu machen und gleichzeitig neue Einkommensquellen zu erschließen — von Carbon Credits über Wertholz bis hin zur erhöhten GAP-Förderung.
+
+---
+
+## Fünf Schritte zur Umsetzung: Ein Fahrplan für Landwirte
+
+Für Betriebsleiter, die konkret planen wollen, hier ein praxiserprobter Fünf-Schritte-Fahrplan:
+
+**Schritt 1 — Standortprüfung (Monat 1–2).** Bodenanalyse: Paulownia bevorzugt tiefgründige, gut drainierte Böden (Lösslehm, sandiger Lehm). Staunässe ist ein Ausschlusskriterium. Klimacheck: Spätfrostrisiko bewerten, geeigneten Hybridklon auswählen (NordMax21® für Frostlagen bis -25°C, BIO125 für mildere Standorte).
+
+**Schritt 2 — Flächenplanung und Förderantrag (Monat 3–4).** Pflanzschema erstellen: Streifen-Breite, Abstände, Ausrichtung. ÖR3-Förderantrag im Rahmen des Agrarantrags stellen. Seit 2025 ist kein separates Nutzungskonzept mehr erforderlich — die Einstiegshürde ist so niedrig wie nie.
+
+**Schritt 3 — Pflanzung (April–Mai).** Pflanzung nach dem letzten Spätfrost. Paulownia-Stecklinge werden als bewurzelte Jungpflanzen (1-jährig) gesetzt. Pflanzloch: 40 × 40 × 40 cm. Wässerung bei Pflanzung, danach naturnah.
+
+**Schritt 4 — Etablierungsphase (Jahr 1–3).** Im ersten Winter: Rückschnitt auf 10 cm über dem Boden (forcing cut), um einen geraden, starken Haupttrieb zu fördern. Jährlich: Kronenpflege, Entfernung von Seitentrieben im unteren Stammbereich. Zwischen den Baumstreifen: normale Ackerbewirtschaftung.
+
+**Schritt 5 — Ernte und Wiederbetrieb (ab Jahr 8).** Erste Holzernte: Wertholz mit 25–35 cm Stammdurchmesser. Paulownia treibt aus dem Wurzelstock neu aus — bis zu fünf Erntezyklen ohne Neupflanzung. Carbon Credits werden während der gesamten Wachstumsphase generiert und können jährlich zertifiziert werden.
+
+---
+
+## Fazit: Die Dreifach-Dividende der Paulownia-Agroforst-Integration
+
+Landwirte, die Paulownia-Hybride in bestehende Acker- oder Grünlandsysteme integrieren, erschließen eine dreifache Dividende:
+
+**Ökologisch**: 30 bis 40 Tonnen CO₂-Bindung pro Hektar Gehölzfläche und Jahr (Ghazzawy et al., 2024), Erosionsschutz, Bodenverbesserung, Biodiversitätsförderung durch Blüten als Bienenweide, Hitzeschutz für Weidetiere.
+
+**Ökonomisch**: 600 Euro/ha GAP-Prämie ab 2026, Wertholzerlös ab Jahr 8, Carbon Credits aus zertifizierter CO₂-Bindung, reduzierte Erosionsschäden und stabilisierte Erträge durch Windschutz und verbesserte Bodenfeuchtigkeit.
+
+**Strategisch**: Diversifizierung der Einkommensquellen, Klimaresilienz des Betriebs, Vorsprung bei zukünftigen Nachhaltigkeitsanforderungen (CSRD, Lieferkettengesetz), Aufbau eines Vermögenswerts in Form wachsender Bäume.
+
+Die GAP-Reform 2026 mit der verdreifachten Agroforst-Prämie, der Streichung der Nutzungskonzept-Pflicht und der Erhöhung des zulässigen Gehölzanteils auf 40 Prozent hat die Rahmenbedingungen so günstig wie nie gestaltet. Paulownia-Hybride liefern die Baumart, die diese Rahmenbedingungen optimal nutzt: schnellwachsend, ertragsstark, klimaresilient — und bei sterilisierten Hybriden nachweislich ohne Invasivitätsrisiko.
+
+Der Deutsche Fachverband für Agroforstwirtschaft hat es treffend formuliert: Agroforst hat viele Gesichter (DeFAF, 2025). Das Gesicht der Zukunft — schnell, profitabel und klimawirksam — trägt den Namen Paulownia.
+
+---
+
+## Weitere Artikel von Dirk Röthig
+
+- [Paulownia-Hybride als CO₂-Superabsorber: Wissenschaft und Feldversuche](https://dev.to/dirkroethig-verdantis/paulownia-hybride-als-co2-superabsorber-wissenschaft-und-feldversuche-ohl) — Die pflanzenphysiologischen Grundlagen der überlegenen CO₂-Bindung
+- [Carbon Credits durch Paulownia: So werden Unternehmen profitabel CO₂-neutral](https://dev.to/dirkroethig-verdantis/carbon-credits-durch-paulownia-so-werden-unternehmen-profitabel-co2-neutral-pc1) — Kostenvergleich verschiedener Kompensationswege
+- [Paulownia in der Bioökonomie: Von der Grauen Liste zur Grünen Zukunft](https://dev.to/dirkroethig-verdantis/paulownia-in-der-bioökonomie-von-der-grauen-liste-zur-grünen-zukunft) — Fünf Wertschöpfungsketten und die regulatorische Neubewertung
+
+---
+
+## Quellenverzeichnis
+
+1. DeFAF — Deutscher Fachverband für Agroforstwirtschaft (2024): *Agroforstflächen-Karte Deutschland — Statusbericht Dezember 2024*. Verfügbar unter: https://agroforst-info.de/
+2. BMEL — Bundesministerium für Ernährung und Landwirtschaft (2023): *GAP-Strategieplan für die Bundesrepublik Deutschland 2023–2027*. Verfügbar unter: https://www.bmleh.de/DE/themen/landwirtschaft/eu-agrarpolitik-und-foerderung/gap/gap-strategieplan.html
+3. BMEL (2025): *Neuregelungen für GAP ab 2025 — Öko-Regelungen und Konditionalität*. Verfügbar unter: https://www.bmleh.de/DE/themen/landwirtschaft/eu-agrarpolitik-und-foerderung/direktzahlung/oeko-regelungen.html
+4. Agrarheute (2026): *Öko-Regelungen auf Acker und Grünland: Das ist bei den Vorschriften 2026 geändert*. Verfügbar unter: https://www.agrarheute.com/pflanze/getreide/oeko-regelungen-acker-gruenland-vorschriften-2026-geaendert-638864
+5. Top Agrar (2026): *Agroforst hat viele Gesichter — Praxisbeispiele und Förderung*. Verfügbar unter: https://www.topagrar.com/acker/news/agroforst-hat-viele-gesichter-20016791.html
+6. Newman, S.M. et al. (2019): *The optimal size of a Paulownia-crop agroforestry system for maximal economic return in North China Plain*. Agricultural and Forest Meteorology, 269–270, 1–9. DOI: 10.1016/j.agrformet.2019.01.044
+7. Yin, R. und He, Q. (1997): *Influence of direction and distance from trees on wheat yield and photosynthetic photon flux density in a Paulownia and wheat intercropping system*. Forest Ecology and Management, 96(3), 271–278. DOI: 10.1016/S0378-1127(96)03721-8
+8. Ghazzawy, H.S. et al. (2024): *Paulownia trees as a sustainable solution for CO₂ mitigation: assessing progress toward 2050 climate goals*. Frontiers in Environmental Science, 12, 1307840. DOI: 10.3389/fenvs.2024.1307840
+9. World Tree (2025): *Silvopasture: Rethinking How We Raise Livestock and Grow Trees*. Verfügbar unter: https://worldtree.eco/silvopasture-rethinking-how-we-raise-livestock-and-grow-trees/
+10. Cornell University (2018): *Six Key Principles for a Successful Silvopasture*. Cornell Small Farms Program. Verfügbar unter: https://smallfarms.cornell.edu/2018/06/six-key-principles-for-a-successful-silvopasture/
+11. Paulownia-Baumschule Schröder (2024): *Invasivitätsbewertung der Paulownia — Freilandversuche*. Verfügbar unter: https://www.paulownia-baumschule.de/anbau/invasivitätsbewertung/
+12. Energiepflanzen.com (2025): *Paulownia Hybrid Z07 — Nicht-invasiver Hybridklon*. Verfügbar unter: https://www.energiepflanzen.com/product/paulownia-hybrid-z07/
+13. Forstpraxis (2025): *Paulownia im Wald: Klimahoffnung oder Risiko?*. Verfügbar unter: https://www.forstpraxis.de/paulownia-im-wald-klimahoffnung-oder-risiko-was-der-blauglockenbaum-wirklich-bringt-23781
+14. Agrarheute (2025): *Paulownia: Klimaretter oder Risiko? Was der Blauglockenbaum wirklich bringt*. Verfügbar unter: https://www.agrarheute.com/pflanze/paulownia-klimaretter-risiko-blauglockenbaum-wirklich-bringt-635354
+15. Biomassafeiten (2024): *Paulownia cultivation in agroforestry: a new business model for the agricultural sector*. Verfügbar unter: https://www.biomassafeiten.nl/en/2024/09/04/Paulownia-cultivation-in-agroforestry-a-new-revenue-model-for-the-agricultural-sector/
+16. DeFAF (2025): *Förderung von Agroforstsystemen kommt in Fahrt*. Verfügbar unter: https://agroforst-info.de/foerderung-von-agroforstsystemen-kommt-langsam-in-fahrt/
+
+---
+
+**Über den Autor**: Dirk Röthig ist CEO von VERDANTIS Impact Capital mit Sitz in Zug, Schweiz. Er begleitet Landwirte und institutionelle Investoren bei der Umsetzung von Paulownia-basierten Agroforst-Projekten — von der Standortanalyse über die Pflanzung bis zur Carbon-Credit-Zertifizierung. Kontakt und weitere Artikel: [verdantiscapital.com](https://www.verdantiscapital.com) | [LinkedIn](https://www.linkedin.com/in/dirkroethig)
