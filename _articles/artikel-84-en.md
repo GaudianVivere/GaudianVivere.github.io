@@ -1,0 +1,191 @@
+---
+title: "Paulownia vs. Spruce, Beech, Oak: Reforestation in Direct Comparison"
+description: "Which tree species pays off ecologically and economically? A data-driven comparison of Paulownia hybrids with spruce, beech, and oak."
+tags: [paulownia, reforestation, climateprotection, forestry]
+series: "Paulownia & Climate Protection"
+cover_image: https://images.unsplash.com/photo-1448375240586-882707db888b?w=1200
+---
+
+# Paulownia vs. Traditional Reforestation: An Economic and Ecological Comparison
+
+**By Dirk Röthig** | CEO, VERDANTIS Impact Capital | March 10, 2026
+
+*Germany has a forest problem. According to the fourth National Forest Inventory, German forests became a carbon source for the first time between 2017 and 2022 — instead of sequestering CO2, they are releasing it. At the same time, timber prices are hitting 35-year highs and reforestation areas await planting. Anyone wanting to reforest one hectare of land today faces a crucial question: Which tree species delivers the best combination of climate impact, yield, and ecological benefit? This article provides a data-driven comparison.*
+
+**Tags**: Paulownia, Reforestation, Climate Protection, Forestry
+
+---
+
+## Starting Point: Germany's Forests Under Pressure
+
+The figures from the fourth National Forest Inventory (BWI4) paint a concerning picture. Between 2012 and 2017, Germany's 11.4 million hectares of forest still stored approximately 52.5 million tonnes of CO2 net per year (Federal Statistical Office, 2024). But since then, the situation has deteriorated dramatically. Drought summers, bark beetle infestations, and storm damage have decimated spruce stands in particular. The Thuenen Institute concludes: The German forest is no longer a CO2 sink but periodically a carbon source (Thuenen Institute, 2024).
+
+For landowners, municipalities, and institutional investors, this means: The classic reforestation strategy — plant spruce, wait 80 years, harvest — no longer works reliably in times of climate change. But what alternatives exist? And how does the often-discussed Paulownia compare directly with Germany's three most-planted tree species?
+
+Dirk Röthig, CEO of VERDANTIS Impact Capital, has been dealing with this question for years: "We need to stop viewing reforestation as a purely forestry measure. It is an investment decision — and as with any investment, we need reliable comparison data."
+
+---
+
+## Criterion 1: Establishment Costs per Hectare
+
+The costs for initial planting of one hectare vary considerably by tree species. The following figures include planting material, planting, site preparation, and fence protection, based on current market prices.
+
+**Spruce:** At a planting density of 2,500 trees per hectare and costs of approximately 0.80 euros per plant plus 0.50 euros planting costs, pure planting costs amount to around 3,250 euros per hectare. With site preparation (1,500-2,500 euros) and fencing costs (3,000-5,000 euros), total costs reach 7,750 to 10,750 euros per hectare (Waldwissen.net, 2023; AGDW, 2024).
+
+**Beech:** The number of plants is significantly higher at 6,000 to 8,000 per hectare, with planting material costs of 1.00 to 1.50 euros each. Including planting, site preparation, and the more intensive care in the first five years, the German Forest Owners Association estimates total costs of 15,000 to 22,000 euros per hectare (AGDW, 2024).
+
+**Oak:** The most expensive option among native species. At 6,666 plants per hectare, planting material costs of 1.20 euros, and planting costs of 0.50 euros, planting alone comes to 11,333 euros. With the necessary wildlife fence, site preparation, and decades of maintenance intensity, total costs range from 18,000 to 25,000 euros per hectare (Waldwissen.net, 2023; Klimafitter Wald, 2024).
+
+**Paulownia Hybrids:** At an optimal planting density of 500 to 600 trees per hectare for timber production and planting material costs of 8 to 15 euros per cutting (depending on hybrid variety), pure planting costs range from 4,000 to 9,000 euros. Total costs including site preparation and first-year care amount to 6,000 to 12,000 euros per hectare (iPaulownia, 2025; Paulownia Bio Innovation Fund, 2024). Crucially: A wildlife fence is generally not required for Paulownia, as deer and hares avoid the bark due to its bitter compounds.
+
+**Interim Conclusion on Costs:** Paulownia sits in the middle range — cheaper than beech and oak, at a similar level to spruce. The elimination of wildlife fencing is an underestimated cost advantage.
+
+---
+
+## Criterion 2: CO2 Sequestration per Hectare per Year
+
+This is where the greatest difference between Paulownia and traditional tree species becomes apparent.
+
+**Spruce:** One hectare of spruce forest sequesters approximately 8 to 12 tonnes of CO2 per year on a long-term average. However, this figure applies to healthy, established stands. The reality in 2026 looks different: Bark beetle infestation and drought stress have reduced the sequestration performance of many spruce stands to zero or turned it negative (Oeko-Institut, 2024; Thuenen Institute, 2024).
+
+**Beech:** One hectare of beech forest stores an average of 10 to 14 tonnes of CO2 per year. Beech is thus a solid CO2 store but requires 100 to 140 years until harvest maturity — an extremely long sequestration period (Wald.de, 2024; University of Muenster, 2021).
+
+**Oak:** CO2 sequestration by oak is 6 to 10 tonnes per hectare per year, with particularly slow growth in the first 30 years. In return, oak timber achieves the longest carbon storage of all native species with a lifespan of 300+ years (University of Muenster, 2021).
+
+**Paulownia Hybrids:** Under Central European conditions, Paulownia plantations sequester 30 to 40 tonnes of CO2 per hectare per year at a planting density of 500 trees. This figure was confirmed by the meta-study of Ghazzawy et al. (2024) in *Frontiers in Environmental Science* and represents the upper end of values measured in field trials. The crucial point: This sequestration performance is achieved within the first five to seven years, while spruce, beech, and oak require decades for comparable biomass growth (Ghazzawy et al., 2024).
+
+**Interim Conclusion on CO2:** Paulownia sequesters approximately three to four times as much per hectare per year as beech and five times as much as oak. Crucial for climate impact: The sequestration occurs in the critical next ten years, not only in 50 or 100 years.
+
+---
+
+## Criterion 3: Timber Yield and Market Prices
+
+The profitability of reforestation depends significantly on timber revenue. Current market prices in Germany show interesting shifts.
+
+**Spruce:** The spruce timber price reached a 35-year high at the beginning of 2026. Sawmills pay between 129 and 133 euros per cubic meter for the benchmark grade B 2b+ — an increase of 5 to 10 euros over the previous quarter (Agrarheute, 2026). However: The rotation period is 60 to 100 years, and the risk of total loss from bark beetles has significantly increased in times of climate change. Yield at harvest maturity: 400 to 700 cubic meters per hectare.
+
+**Beech:** Beech timber achieves 70 to 100 euros per cubic meter as sawlog, and 115 to 125 euros per loose cubic meter as firewood (Bauernzeitung, 2026). The rotation period is 100 to 140 years. Yield: 300 to 500 cubic meters per hectare.
+
+**Oak:** The most valuable native timber. At timber auctions in 2024, average prices of 1,125 euros per cubic meter were achieved, with top lots exceeding 2,000 euros (FBG Amberg, 2024). However: The rotation period is 150 to 250 years. Only few generations will see the harvest of the tree they plant.
+
+**Paulownia Hybrids:** Paulownia quality timber trades on the European market at 200 to 600 euros per cubic meter, with premium qualities reaching 600 to 800 euros (Accio Market Report, 2025; iPaulownia, 2025). The decisive advantage: The first harvest is possible after just 7 to 10 years. The tree then resprouts from the rootstock — up to five harvest cycles are possible from a single planting. At 500 trees per hectare and 0.5 to 1.0 cubic meters of usable timber per tree, the per-hectare yield is 250 to 500 cubic meters per harvest cycle.
+
+**Interim Conclusion on Timber Yield:** Oak delivers the highest price per cubic meter but only after 150+ years. Paulownia delivers marketable timber after 7 to 10 years and enables multiple harvest cycles from one planting through its coppicing ability — a unique feature that no native tree species offers.
+
+---
+
+## Criterion 4: Return on Investment — When Does Money Flow Back?
+
+For the economic evaluation of reforestation, the timing of the first cash flow is crucial.
+
+| Tree Species | Investment/ha | First Harvest | First Cash Flow | Estimated IRR |
+|-------------|--------------|---------------|-----------------|---------------|
+| Spruce | 8,000-11,000 EUR | 60-100 years | 60+ years | 1-3% |
+| Beech | 15,000-22,000 EUR | 100-140 years | 100+ years | < 1% |
+| Oak | 18,000-25,000 EUR | 150-250 years | 150+ years | < 0.5% |
+| Paulownia | 6,000-12,000 EUR | 7-10 years | 8-12 years | 15-25% |
+
+*Sources: AGDW (2024), iPaulownia (2025), Paulownia Bio Innovation Fund (2024), MDPI Sustainability (2025)*
+
+The difference is striking. While an oak reforestation is a generational decision — the planter will never see the harvest — a Paulownia plantation delivers returns within a decade. The MDPI study by Ferrandez-Villena et al. (2025) quantifies the annual gross margin of Paulownia dual production (quality timber plus wood chips) at 358 euros per hectare in temperate climates — comparable to a well-managed vineyard.
+
+For VERDANTIS Impact Capital, this is precisely the decisive profile: "Investors need a manageable time horizon for returns. We combine Paulownia's rapid CO2 sequestration with tradable carbon credits and timber revenue after seven to ten years. That's a return structure that institutional investors understand," explains Röthig.
+
+---
+
+## Criterion 5: Ecological Footprint and Biodiversity
+
+Economics alone is not enough — sustainable reforestation must also pass ecological scrutiny. Here the comparison becomes more nuanced.
+
+**Native Tree Species — Clear Strengths in Biodiversity:** Oaks are ecological keystone species. A single oak tree can harbor over 1,000 insect species (Federation for Environment and Nature Conservation, 2023). Beeches form closed canopies that create a unique forest microclimate. Spruce also provides habitat — but mainly in its natural range at higher elevations, not in the lowland monocultures planted since the 19th century.
+
+**Paulownia — Underestimated Ecological Contributions:** The large, bell-shaped flowers of Paulownia appear in April and May and serve as a valuable bee pasture (Paulownia Nursery Schroeder, 2024). The soft wood offers woodpeckers nesting habitat. The large leaves that fall in autumn enrich the soil with organic matter and improve humus formation. The deep-reaching roots loosen compacted soils and improve water permeability — an advantage on former farmland (Agrarheute, 2025).
+
+However, one must be honest: A Paulownia stand hosts fewer insect species than an old oak. The ecological value of a Paulownia plantation lies not in species diversity on the site itself but in the systemic effect — the superior CO2 sequestration, soil improvement, and potential as a component of agroforestry systems where Paulownia is combined with undercrops and native hedgerows.
+
+---
+
+## The Invasiveness Question: Facts Instead of Prejudice
+
+No comparison of Paulownia with native tree species would be complete without addressing the invasiveness issue. The Federal Agency for Nature Conservation (BfN) lists Paulownia tomentosa — the wild form — on the so-called "Grey List" of potentially invasive species. This classification is correct and important — for wild forms.
+
+But in modern reforestation projects, only sterilized Paulownia hybrids are used. These hybrids produce no viable seeds, making uncontrolled spread biologically impossible. In German field trials, the germination rate was zero percent (Paulownia Nursery Schroeder, 2024). Furthermore, modern hybrid cultivars withstand temperatures of minus 20 to minus 25 degrees Celsius — sufficient for virtually all locations in Central Europe.
+
+At VERDANTIS Impact Capital, only certified hybrid plants are used. "We don't use wild forms — that would be ecologically irresponsible and regulatorily problematic. Our sterilized hybrids are the safest way to harness Paulownia's enormous CO2 sequestration potential without taking ecological risks," emphasizes Röthig.
+
+Given this evidence, it is time to place sterilized Paulownia hybrids on the EU Green List — as a recommended species for sustainable land use and agroforestry systems. As long as the hybrids are lumped together with the wild form and kept on the Grey List, the enormous potential of this tree species for climate protection and bioeconomy in Europe is not being utilized. The evidence is clear: No germination capability, no invasiveness risk.
+
+---
+
+## Criterion 6: Climate Resilience — Who Survives Climate Change?
+
+The fourth National Forest Inventory has revealed an uncomfortable truth: Spruce — Germany's most-planted tree species with a 25 percent area share — is the big loser of climate change. Between 2017 and 2022, spruce stocks declined by 12 percent, primarily due to bark beetle infestation following the drought years of 2018, 2019, and 2020 (Thuenen Institute, 2024).
+
+**Spruce:** Highly susceptible to drought stress and bark beetles. In elevations below 600 meters, spruce is now considered a risk crop. Many forestry operations have ceased spruce planting in lowland areas.
+
+**Beech:** More robust than spruce but also increasingly under drought stress. The Thuenen Institute's beech vitality survey shows increasing crown thinning since 2018, particularly on shallow soils.
+
+**Oak:** The most climate-resilient native species. Oaks survive dry periods better than spruce and beech and show stable growth rates even at rising temperatures. However: The extremely slow growth makes them unsuitable for short-term climate strategies.
+
+**Paulownia Hybrids:** Modern cultivars are selected for heat and drought tolerance. Paulownia develops deep taproots that access water from deeper soil layers even during dry periods. The frost tolerance of modern hybrids extends to minus 25 degrees Celsius, enabling deployment across all of Central Europe. Limitation: Late frosts after spring bud break can cause damage, which is however typically compensated by new growth in the same year (Paulownia.pro, 2025).
+
+---
+
+## The System Comparison: Not an Either-Or Decision
+
+The smartest reforestation strategy is not "Paulownia instead of oak" but "Paulownia and oak — at the right time in the right place." The data clearly shows: Anyone wanting to achieve maximum CO2 impact within the next ten years while simultaneously generating economic returns cannot bypass Paulownia hybrids. Anyone prioritizing long-term ecological value and species diversity should choose oak and beech.
+
+In practice at VERDANTIS Impact Capital, agroforestry systems are developed that combine both approaches: Paulownia as a fast-growing pioneer species for the first 10 to 15 years, flanked by slow-growing native species like oak and beech that grow under Paulownia's light canopy. This model delivers short-term carbon credits and timber revenue from Paulownia while simultaneously developing a permanent, species-rich mixed forest.
+
+"The most cost-effective solution for companies to become CO2-neutral does not lie in a single tree species but in an intelligently designed system. Paulownia delivers the quick return — ecologically and economically. Native species deliver long-term stability. Together, they create an agroforestry model that meets both climate protection requirements and institutional investor expectations," summarizes Röthig.
+
+---
+
+## Conclusion: Five Insights for Decision-Makers
+
+1. **Costs favor Paulownia:** At comparable or lower establishment costs than beech and oak, Paulownia delivers the fastest return on investment.
+
+2. **The CO2 balance is clear:** 30 to 40 tonnes of CO2 per hectare per year stand against 6 to 14 tonnes for native species. In the climate-politically decisive decade to 2035, this factor of three to five makes the difference.
+
+3. **Timber revenue in years not centuries:** While oak timber achieves the highest price per cubic meter, harvest requires a waiting period of 150 to 250 years. Paulownia delivers after 7 to 10 years — with up to five harvest cycles per planting.
+
+4. **The invasiveness debate is resolved for hybrids:** Sterilized Paulownia hybrids produce no viable seeds. The Grey List classification applies to wild forms — a differentiation that is long overdue.
+
+5. **Combination beats monoculture:** The strongest reforestation strategy combines Paulownia as a pioneer species with long-term native species. VERDANTIS Impact Capital demonstrates with its agroforestry models that this offers the most cost-effective path to CO2 neutrality while simultaneously generating tradable carbon credits.
+
+---
+
+## More Articles by Dirk Röthig
+
+- [Hybrid Paulownia in Short Rotation: 5-Year Yield Data from German Pilot Plantations](https://dev.to/dirkroethig-verdantis/hybrid-paulownia-im-kurzumtrieb-5-jahres-ertragsdaten-aus-deutschen-pilotplantagen-2ed2) — Real yield and growth data from practice
+- [Carbon Credits Through Paulownia: How Companies Become Profitably Carbon Neutral](https://dev.to/dirkroethig-verdantis/carbon-credits-durch-paulownia-so-werden-unternehmen-profitabel-co2-neutral-pc1) — Cost comparison of different compensation paths
+- [Paulownia Timber as CO2 Storage in Construction](https://dev.to/dirkroethig-verdantis/paulownia-holz-als-co2-speicher-im-bauwesen-wie-leichtbau-materialien-den-carbon-footprint-der-51n0) — How lightweight materials reduce the carbon footprint of the construction industry
+
+---
+
+## References
+
+1. Federal Statistical Office (2024): *52.5 million tonnes of CO2 per year absorbed net by forests in 2021*. Press release No. 12/2024. Available at: https://www.destatis.de
+2. Thuenen Institute (2024): *Older, more diverse, but no longer a CO2 sink: The state of Germany's forests*. Results of the 4th National Forest Inventory. Available at: https://www.thuenen.de
+3. Oeko-Institut (2024): *Assessing forest CO2 storage performance developments earlier*. Available at: https://www.oeko.de
+4. AGDW — German Forest Owners (2024): *Reforestation and forest conversion — Infographics and cost data*. Available at: https://www.waldeigentuemer.de
+5. Waldwissen.net (2023): *Stand establishment: Think about harvesting when planting*. Available at: https://www.waldwissen.net
+6. Klimafitter Wald (2024): *What costs should I expect for reforestation?*. Available at: https://www.klimafitterwald.at
+7. Ghazzawy, H.S. et al. (2024): *Paulownia as a sustainable solution for CO2 sequestration: A comprehensive review*. Frontiers in Environmental Science, 12. DOI: 10.3389/fenvs.2024.1290000
+8. Ferrandez-Villena, M. et al. (2025): *Economic Sustainability Assessment of Paulownia Farms in a Dual Production System — Case Studies in Temperate Climates*. MDPI Sustainability, 17(1), 21. DOI: 10.3390/su17010021
+9. Agrarheute (2026): *Timber prices rise steeply in 2026: Sawmills pay forest owners new record prices*. Available at: https://www.agrarheute.com
+10. Bauernzeitung (2026): *Heating with wood becomes more expensive: What beech, birch and spruce cost in February*. Available at: https://www.bauernzeitung.de
+11. FBG Amberg (2024): *Current timber prices — Timber auctions*. Available at: https://fbg-amberg.de
+12. Accio Market Report (2025): *Paulownia Timber Price 2025: Current Market Trends*. Available at: https://www.accio.com
+13. iPaulownia (2025): *Global Timber Market — Paulownia Opportunity*. Available at: https://www.ipaulownia.com
+14. Paulownia Bio Innovation Fund (2024): *Nature Capital Investment — Paulownia Plantations in Europe*. Available at: https://www.paulownia-bio-innovation-fund.eu
+15. University of Muenster (2021): *How quickly and how much CO2 do trees sequester?* Forest Center. Available at: https://www.wildes-bayern.de
+16. Wald.de (2024): *How much carbon dioxide (CO2) does a forest or tree store*. Available at: https://www.wald.de
+17. Paulownia Nursery Schroeder (2024): *Paulownia — Important information about the Princess tree*. Available at: https://www.paulownia-baumschule.de
+18. Agrarheute (2025): *Paulownia: Climate savior or risk? What the Princess tree really delivers*. Available at: https://www.agrarheute.com
+19. Federation for Environment and Nature Conservation (2023): *Oak — Tree of the Year*. Available at: https://www.bund.net
+20. Paulownia.pro (2025): *Nursery Producer of Paulownia — Climate resilience and cultivation recommendations*. Available at: https://paulownia.pro
+
+---
+
+**About the Author**: Dirk Röthig is CEO of VERDANTIS Impact Capital, an impact investment platform for carbon credits, agroforestry, and Nature-Based Solutions based in Zug, Switzerland. He has been comparing the economic and ecological performance of different reforestation strategies for years and relies on data-driven decisions for sustainable land use. Contact and more articles: [verdantiscapital.com](https://www.verdantiscapital.com) | [LinkedIn](https://www.linkedin.com/in/dirkroethig)
