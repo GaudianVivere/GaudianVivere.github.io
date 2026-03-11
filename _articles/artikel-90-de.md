@@ -1,0 +1,179 @@
+---
+title: "Die demografische Dividende der Digitalisierung: Produktivität trotz schrumpfender Belegschaften"
+description: "Europas Erwerbsbevölkerung schrumpft um 35 Millionen bis 2050. Warum Digitalisierung und KI den Produktivitätsverlust nicht nur kompensieren, sondern überkompensieren können."
+tags: [produktivitaet, digitalisierung, demografie, ki, wirtschaftswachstum]
+series: "Demographie & Automatisierung"
+cover_image: https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200
+canonical_url: "https://dev.to/dirkroethig-verdantis/die-demografische-dividende-der-digitalisierung-produktivitaet-trotz-schrumpfender-belegschaften"
+---
+
+# Die demografische Dividende der Digitalisierung: Produktivität trotz schrumpfender Belegschaften
+
+**Von Dirk Röthig** | CEO, VERDANTIS Impact Capital | 11. März 2026
+
+*Europa verliert bis 2050 rund 35 Millionen Erwerbstätige. Doch die Gleichung „weniger Arbeitskräfte gleich weniger Wirtschaftsleistung" ist zu einfach. Die Digitalisierung — allen voran generative KI — kann den Produktivitätsverlust nicht nur ausgleichen, sondern eine demografische Dividende erzeugen: mehr Output pro Kopf, trotz weniger Köpfe. Dirk Röthig analysiert die historischen Parallelen, die aktuellen Produktivitätsdaten und die Voraussetzungen, unter denen die digitale Dividende gelingt.*
+
+**Tags**: Produktivität, Digitalisierung, Demografie, KI, Wirtschaftswachstum
+
+---
+
+## Das Paradoxon: Weniger Menschen, mehr Wohlstand?
+
+Die konventionelle Logik ist bestechend einfach: Weniger Arbeitskräfte bedeuten weniger Produktion, weniger Steuereinnahmen und weniger Wohlstand. Doch die Wirtschaftsgeschichte zeigt, dass diese Gleichung so nicht stimmt. Japans Erwerbsbevölkerung schrumpft seit 1995 — trotzdem ist das BIP pro Kopf zwischen 1995 und 2024 um 36 Prozent gewachsen (OECD, 2025). Deutschland hat zwischen 2010 und 2024 seine Arbeitsproduktivität pro Stunde um 14 Prozent gesteigert, obwohl die Erwerbsbevölkerung in diesem Zeitraum nur marginal gewachsen ist — getrieben durch Zuwanderung, nicht durch natürliche Bevölkerungsentwicklung (Statistisches Bundesamt, 2025).
+
+Der Schlüssel liegt in der Produktivität. Solange der Produktivitätszuwachs pro Erwerbstätigem den Rückgang der Erwerbstätigenzahl übersteigt, wächst die Wirtschaftsleistung — trotz schrumpfender Belegschaft. Dirk Röthig, CEO von VERDANTIS Impact Capital, formuliert die zentrale These: „Der demografische Wandel ist ein Produktivitätsproblem, kein Bevölkerungsproblem. Und Produktivitätsprobleme lassen sich mit Technologie lösen — wenn man es richtig macht."
+
+Die Europäische Kommission schätzt, dass die EU-Erwerbsbevölkerung zwischen 2025 und 2050 um 35 Millionen Personen schrumpfen wird — von 202 Millionen auf 167 Millionen (European Commission, 2024). Um das aktuelle BIP-Niveau zu halten, müsste die Arbeitsproduktivität pro Kopf um durchschnittlich 0,8 Prozent pro Jahr steigen. Um das gewohnte Wirtschaftswachstum von 1,5 Prozent aufrechtzuerhalten, bräuchte Europa einen Produktivitätszuwachs von 2,3 Prozent jährlich. Zum Vergleich: Der tatsächliche Produktivitätszuwachs in der EU lag in den letzten Dekade bei durchschnittlich 0,7 Prozent pro Jahr (Eurostat, 2025).
+
+Die Lücke beträgt also 1,6 Prozentpunkte. Kann die Digitalisierung diese Lücke schließen?
+
+---
+
+## Historische Parallelen: Wie Technologie demografische Schocks kompensiert hat
+
+Die Geschichte kennt mehrere Episoden, in denen technologischer Fortschritt den Verlust von Arbeitskräften kompensiert hat — teilweise mit dramatischen Produktivitätsgewinnen.
+
+**Der Schwarze Tod (1347–1353).** Die Pest tötete ein Drittel der europäischen Bevölkerung. Die unmittelbare Folge war ein massiver Arbeitskräftemangel in der Landwirtschaft. Die langfristige Folge war eine Welle technologischer Innovation: Verbesserung der Pflugtechnik, Ausbreitung der Dreifelderwirtschaft, Mechanisierung der Textilproduktion. Die Reallöhne stiegen in England zwischen 1350 und 1450 um 100 Prozent — mehr als in den 200 Jahren zuvor (Pamuk, 2007). Der Historiker Slicher van Bath sprach vom „goldenen Zeitalter des Arbeiters".
+
+**Die Industrielle Revolution.** Zwischen 1760 und 1840 wandelte sich England von einer Agrargesellschaft zu einer Industrienation. Die Mechanisierung — Spinnmaschine, Dampfmaschine, mechanischer Webstuhl — ersetzte menschliche Arbeitskraft durch Maschinenarbeit. Die Arbeitsproduktivität in der Textilproduktion stieg um den Faktor 200 (Allen, 2009). Ein einzelner Arbeiter an einem mechanischen Webstuhl produzierte so viel Stoff wie zuvor 200 Handweber.
+
+**Die Grüne Revolution (1960–1980).** In Asien stieg die landwirtschaftliche Produktivität durch Hochleistungssorten, Bewässerungstechnik und Düngemittel um 200 bis 300 Prozent — bei gleichbleibender oder sogar sinkender landwirtschaftlicher Beschäftigung (Pingali, 2012). Die Grüne Revolution ernährte Milliarden zusätzlicher Menschen mit weniger Landarbeitern.
+
+Dirk Röthig zieht die Parallele zur Gegenwart: „Jede große technologische Revolution hat den gleichen Effekt gehabt: Sie hat den Output pro Arbeitskraft massiv gesteigert und damit den Verlust von Arbeitskräften — ob durch Pest, Migration oder demografischen Wandel — mehr als kompensiert. Die Frage bei KI ist nicht, ob dieser Effekt eintreten wird, sondern wie schnell."
+
+---
+
+## KI als Produktivitätstreiber: Was die Daten sagen
+
+Die empirische Evidenz für KI-getriebene Produktivitätsgewinne verdichtet sich. Mehrere großangelegte Studien aus den Jahren 2024 und 2025 liefern erstmals belastbare Zahlen.
+
+### Makroökonomische Schätzungen
+
+**McKinsey Global Institute (2024)** schätzt das globale Wertschöpfungspotenzial generativer KI auf 2,6 bis 4,4 Billionen Dollar jährlich — das entspricht der gesamten Wirtschaftsleistung Deutschlands und Frankreichs zusammen (McKinsey, 2024). Für die EU-27 bedeutet das ein Potenzial von 600 bis 1.000 Milliarden Euro zusätzlicher Wertschöpfung pro Jahr.
+
+**Goldman Sachs (2024)** prognostiziert, dass generative KI die globale Arbeitsproduktivität über einen Zeitraum von zehn Jahren um kumuliert 7 Prozent steigern könnte — ein Effekt, der in der Größenordnung der Elektrifizierung liegt (Goldman Sachs, 2024).
+
+**Acemoglu und Restrepo (2024)**, die renommiertesten Arbeitsökonomen der Gegenwart, sind zurückhaltender: In einer MIT-Studie beziffern sie den realistischen KI-Produktivitätseffekt auf 0,5 bis 0,9 Prozent BIP-Wachstum pro Jahr über die nächsten zehn Jahre — ein signifikanter, aber kein transformativer Effekt (Acemoglu und Restrepo, 2024). Für Europa würde selbst der untere Rand dieser Schätzung ausreichen, um die demografisch bedingte Produktivitätslücke von 0,8 Prozent fast vollständig zu schließen.
+
+### Mikroökonomische Evidenz: Was passiert in Unternehmen?
+
+Die überzeugendsten Daten kommen aus Unternehmensexperimenten:
+
+**Stanford/MIT-Studie zum Kundenservice (2024).** In einer randomisierten kontrollierten Studie mit 5.179 Kundenservice-Mitarbeitern steigerte der Einsatz eines KI-Assistenten die Bearbeitungsgeschwindigkeit um 14 Prozent bei gleichzeitig höherer Kundenzufriedenheit. Der Effekt war bei den am wenigsten erfahrenen Mitarbeitern am größten — 35 Prozent Produktivitätssteigerung — was darauf hindeutet, dass KI primär die Produktivitätsuntergrenze anhebt (Brynjolfsson et al., 2024).
+
+**Harvard-Studie zu Unternehmensberatern (2024).** 758 Berater einer Top-Management-Beratung absolvierten typische Beratungsaufgaben mit und ohne KI-Unterstützung. Ergebnis: Die KI-Gruppe war 25 Prozent schneller, produzierte 40 Prozent mehr Output und erzielte 12 Prozent höhere Qualitätsbewertungen (Dell'Acqua et al., 2024).
+
+**GitHub Copilot (2024).** In einer kontrollierten Studie mit 950 Softwareentwicklern erledigten Entwickler mit KI-Coding-Assistenten Programmieraufgaben 55 Prozent schneller als ohne KI-Unterstützung (GitHub, 2024).
+
+Röthig bilanziert: „Die mikroökonomische Evidenz ist überzeugend: 14 bis 55 Prozent Produktivitätsgewinn, je nach Tätigkeit. Selbst wenn nur die Hälfte davon in der breiten Wirtschaft ankommt, schließt das die demografische Produktivitätslücke vollständig."
+
+---
+
+## Die Voraussetzungen der demografischen Dividende
+
+Produktivitätsgewinne durch Digitalisierung und KI fallen nicht vom Himmel. Die historische Erfahrung zeigt: Zwischen der Erfindung einer Technologie und ihrer vollen wirtschaftlichen Wirkung liegen Jahrzehnte — das sogenannte Solow-Paradoxon. Die Elektrizität wurde in den 1880er Jahren kommerzialisiert, aber die volle Produktivitätswirkung entfaltete sich erst in den 1920er Jahren, als Fabriken ihre gesamte Produktionslogik um elektrische Antriebe herum reorganisierten (David, 1990).
+
+Für die KI-getriebene demografische Dividende müssen vier Voraussetzungen erfüllt sein:
+
+### 1. Infrastruktur: Breitband und Cloud für alle
+
+KI-Anwendungen erfordern leistungsfähige digitale Infrastruktur. In Deutschland haben 15 Prozent der Haushalte und 22 Prozent der Unternehmen keinen Zugang zu Glasfaserinternet (BMDV, 2025). In ländlichen Regionen — wo der demografische Wandel am stärksten wirkt — liegt die Glasfaserquote unter 30 Prozent. Dirk Röthig warnt: „KI ohne Breitband ist wie eine Dampfmaschine ohne Kohle. Solange ein Fünftel der Unternehmen offline ist, wird die demografische Dividende nur in den Ballungsräumen ankommen."
+
+### 2. Bildung: KI-Kompetenz als Grundfähigkeit
+
+Die größten Produktivitätsgewinne treten bei denjenigen Mitarbeitern auf, die KI-Tools kompetent einsetzen können. In Deutschland beurteilen laut einer OECD-Studie nur 38 Prozent der Erwachsenen ihre digitalen Fähigkeiten als ausreichend für den Einsatz von KI am Arbeitsplatz (OECD, 2025). Die Bundesregierung hat 2024 die „KI-Kompetenzoffensive" gestartet, die bis 2027 eine Million Beschäftigte in KI-Anwendung schulen soll (BMAS, 2025). Ob das ausreicht, ist fraglich — die Lücke umfasst Millionen von Beschäftigten.
+
+### 3. Organisatorische Transformation: Prozesse um KI herum neu gestalten
+
+Wie die Elektrifizierung zeigt: Die Produktivitätswirkung einer Technologie hängt davon ab, ob Unternehmen ihre Prozesse grundlegend umgestalten. Eine Fabrik, die eine Dampfmaschine durch einen Elektromotor ersetzte, aber die gleiche Produktionslogik beibehielt, gewann wenig. Erst die Neuorganisation der Fabrik um dezentrale elektrische Antriebe herum brachte den Durchbruch (David, 1990).
+
+Für KI bedeutet das: Unternehmen, die ChatGPT auf die bestehende E-Mail-Kommunikation aufsetzen, gewinnen fünf Prozent Produktivität. Unternehmen, die ihre gesamte Wissensarbeit um KI-native Workflows reorganisieren, gewinnen 30 bis 40 Prozent. Röthig beobachtet den Unterschied in der Praxis: „Die KI-Adoptionsgeschwindigkeit in deutschen Unternehmen ist erfreulich hoch — 63 Prozent nutzen bereits KI-Tools. Aber die organisatorische Transformation, die den vollen Produktivitätseffekt freisetzt, steckt bei den meisten noch in den Anfängen."
+
+### 4. Investitionen: Kapital für die digitale Transformation
+
+Die digitale Transformation erfordert massive Investitionen. Der Digitalverband Bitkom schätzt den jährlichen Investitionsbedarf der deutschen Wirtschaft in Digitalisierung auf 125 Milliarden Euro — tatsächlich investiert werden 84 Milliarden Euro (Bitkom, 2025). Die Investitionslücke von 41 Milliarden Euro pro Jahr muss geschlossen werden, wenn die demografische Dividende realisiert werden soll.
+
+---
+
+## Sektorale Analyse: Wo die Dividende am größten ist
+
+Nicht jeder Wirtschaftssektor profitiert gleichermaßen von der digitalen Produktivitätsdividende:
+
+**Wissensintensive Dienstleistungen** (Finanzwesen, Beratung, IT, Medien, öffentliche Verwaltung): Produktivitätspotenzial durch KI: 25–40 %. Hier liegt der größte und am schnellsten realisierbare Hebel. Diese Sektoren beschäftigen in Deutschland rund 12 Millionen Menschen (Statistisches Bundesamt, 2025).
+
+**Verarbeitendes Gewerbe** (Automobil, Maschinenbau, Chemie, Pharma): Produktivitätspotenzial durch KI und Automatisierung: 15–25 %. Die deutsche Industrie ist bereits hoch automatisiert; KI liefert inkrementelle, aber kumulative Verbesserungen in Qualität, Wartung und Prozessoptimierung.
+
+**Handel und Logistik**: Produktivitätspotenzial: 15–20 %. Autonome Lager, KI-gestützte Bestandsplanung und prädiktive Lieferkettenoptimierung reduzieren den Personalbedarf bei steigender Servicequalität.
+
+**Pflege, Bildung, Handwerk**: Produktivitätspotenzial: 5–15 %. In diesen Sektoren mit hohem Anteil menschlicher Interaktion bleibt der KI-Hebel begrenzt — aber nicht null. Dokumentationsautomatisierung, Assistenzsysteme und Prozessoptimierung liefern spürbare Entlastung.
+
+Dirk Röthig leitet aus dieser Analyse eine klare Empfehlung ab: „Die größte demografische Dividende entsteht dort, wo wissensintensive Arbeit durch KI augmentiert wird. Deutschland muss seine Digitalisierungsinvestitionen auf genau diese Sektoren konzentrieren — nicht nach dem Gießkannenprinzip, sondern strategisch."
+
+---
+
+## Internationale Vergleiche: Wer die Dividende bereits realisiert
+
+**Südkorea** — mit einer Geburtenrate von 0,72 das Land mit der niedrigsten Fertilitätsrate der Welt — kompensiert den demografischen Rückgang durch die weltweit höchste Roboterdichte (1.012 Roboter pro 10.000 Fertigungsbeschäftigte) und massive KI-Investitionen. Das Ergebnis: Trotz schrumpfender Erwerbsbevölkerung wuchs das BIP pro Kopf 2024 um 2,1 Prozent (OECD, 2025).
+
+**Estland** hat seine öffentliche Verwaltung fast vollständig digitalisiert. 99 Prozent der öffentlichen Dienstleistungen sind online verfügbar, die Verwaltungskosten pro Einwohner liegen 40 Prozent unter dem EU-Durchschnitt (e-Estonia, 2025). In einem Land mit 1,3 Millionen Einwohnern und einer schrumpfenden Bevölkerung ist das kein Luxus, sondern Überlebensstrategie.
+
+**Singapur** investiert jährlich 1,5 Prozent des BIP in KI-Forschung und -Anwendung — dreimal so viel wie Deutschland. Die nationale KI-Strategie „Smart Nation" integriert KI systematisch in Gesundheit, Verwaltung, Logistik und Bildung. Die Arbeitsproduktivität wächst mit 3,2 Prozent pro Jahr — doppelt so schnell wie im EU-Durchschnitt (Singapur Government, 2025).
+
+---
+
+## Die Risiken: Wann die Dividende ausbleibt
+
+Die demografische Dividende der Digitalisierung ist kein Automatismus. Drei Risikoszenarien verdienen Beachtung:
+
+**Szenario 1: Digitale Spaltung.** Wenn nur Großunternehmen und Ballungsräume von KI profitieren, während KMU und ländliche Regionen zurückfallen, entsteht keine gesamtwirtschaftliche Dividende, sondern eine Produktivitätskluft. In Deutschland beschäftigen KMU 60 Prozent aller Arbeitnehmer — wenn sie den KI-Anschluss verpassen, bleibt die Dividende Theorie.
+
+**Szenario 2: Fehlende Komplementärinvestitionen.** KI ohne Breitband, ohne Schulung, ohne organisatorische Transformation bringt keine Produktivitätsgewinne. Das Solow-Paradoxon — „Computer überall, nur nicht in den Produktivitätsstatistiken" — könnte sich bei KI wiederholen.
+
+**Szenario 3: Regulatorische Übersteuerung.** Die EU-KI-Verordnung (AI Act) schafft Rechtssicherheit, birgt aber das Risiko, durch übermäßige Compliance-Anforderungen die KI-Adoption in Europa zu verlangsamen — während China und die USA schneller skalieren.
+
+---
+
+## Fazit: Die größte Chance seit der Industrialisierung
+
+Der demografische Wandel ist unvermeidlich — seine wirtschaftlichen Folgen sind es nicht. Die Digitalisierung, angeführt von generativer KI, bietet Europa die Möglichkeit, aus dem demografischen Rückgang eine Produktivitätsrevolution zu machen. Die historischen Parallelen — vom Schwarzen Tod über die Industrialisierung bis zur Grünen Revolution — zeigen: Arbeitskräftemangel war historisch der stärkste Innovationstreiber.
+
+Dirk Röthig bringt die Chance auf den Punkt: „Europa steht vor der Wahl: Entweder wir nutzen KI und Digitalisierung, um mit weniger Menschen mehr zu erreichen — oder wir akzeptieren den relativen wirtschaftlichen Abstieg. Die Technologie ist reif. Die Frage ist, ob die Politik, die Unternehmen und die Gesellschaft bereit sind, sie entschlossen einzusetzen."
+
+Die demografische Dividende der Digitalisierung ist keine Utopie. Sie ist ein erreichbares Ziel — wenn Europa die Infrastruktur baut, die Kompetenzen schafft, die Prozesse transformiert und das Kapital mobilisiert. Die Alternative — ein Europa, das altert und schrumpft, ohne produktiver zu werden — ist keine Option.
+
+---
+
+## Weitere Artikel von Dirk Röthig
+
+- [Demografischer Wandel und KI — Automatisierung gegen Arbeitskräftemangel 2026](https://dev.to/dirkroethig-verdantis/demografischer-wandel-und-ki-automatisierung-gegen-arbeitskraeftemangel-2026) — Die gesamtwirtschaftliche Perspektive auf Automatisierung und Demografie
+- [Fachkräftemangel und KI: Deutschlands Antwort auf den demographischen Wandel](https://dev.to/dirkroethig-verdantis/fachkraeftemangel-und-ki-deutschlands-antwort-auf-den-demographischen-wandel) — Drei Hebel gegen die strukturelle Arbeitskräftelücke
+- [Generation Z am Arbeitsmarkt: KI als Brücke zum Fachkräftemangel](https://dev.to/dirkroethig-verdantis/generation-z-am-arbeitsmarkt-ki-als-bruecke-zum-fachkraeftemangel) — Wie die jüngste Generation den Arbeitsmarkt verändert
+
+---
+
+## Quellenverzeichnis
+
+1. OECD (2025): *GDP per capita — Japan 1995–2024*. OECD Data. Verfügbar unter: https://data.oecd.org/gdp/gross-domestic-product-gdp.htm
+2. Statistisches Bundesamt (2025): *Arbeitsproduktivität je Erwerbstätigenstunde 2010–2024*. Verfügbar unter: https://www.destatis.de/DE/Themen/Wirtschaft/Volkswirtschaftliche-Gesamtrechnungen-Inlandsprodukt/
+3. European Commission (2024): *2024 Ageing Report — Economic and Budgetary Projections for the EU Member States*. Verfügbar unter: https://economy-finance.ec.europa.eu/publications/2024-ageing-report_en
+4. Eurostat (2025): *Labour Productivity per Person Employed — EU-27*. Verfügbar unter: https://ec.europa.eu/eurostat/databrowser/view/tesem160/default/table
+5. Pamuk, S. (2007): *The Black Death and the origins of the 'Great Divergence' across Europe, 1300–1600*. European Review of Economic History, 11(3), 289–317. DOI: 10.1017/S1361491607002031
+6. Allen, R.C. (2009): *The British Industrial Revolution in Global Perspective*. Cambridge University Press.
+7. Pingali, P. (2012): *Green Revolution: Impacts, limits, and the path ahead*. Proceedings of the National Academy of Sciences, 109(31), 12302–12308. DOI: 10.1073/pnas.0912953109
+8. McKinsey & Company (2024): *The Economic Potential of Generative AI — The Next Productivity Frontier*. McKinsey Global Institute. Verfügbar unter: https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai
+9. Goldman Sachs (2024): *Generative AI: Global Macroeconomic Effects*. Goldman Sachs Economic Research. Verfügbar unter: https://www.goldmansachs.com/intelligence/pages/generative-ai-could-raise-global-gdp-by-7-percent.html
+10. Acemoglu, D. und Restrepo, P. (2024): *The Simple Macroeconomics of AI*. NBER Working Paper 32487. Verfügbar unter: https://www.nber.org/papers/w32487
+11. Brynjolfsson, E., Li, D. und Raymond, L.R. (2024): *Generative AI at Work*. NBER Working Paper 31161. Verfügbar unter: https://www.nber.org/papers/w31161
+12. Dell'Acqua, F. et al. (2024): *Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality*. Harvard Business School Working Paper 24-013. Verfügbar unter: https://www.hbs.edu/ris/Publication%20Files/24-013_d9b45b68.pdf
+13. GitHub (2024): *Research: Quantifying GitHub Copilot's impact on developer productivity*. Verfügbar unter: https://github.blog/2024-06-27-research-quantifying-github-copilots-impact/
+14. David, P.A. (1990): *The Dynamo and the Computer: An Historical Perspective on the Modern Productivity Paradox*. American Economic Review, 80(2), 355–361.
+15. BMDV — Bundesministerium für Digitales und Verkehr (2025): *Breitbandatlas Deutschland 2025*. Verfügbar unter: https://www.bmvi.de/DE/Themen/Digitales/Breitbandausbau/breitbandausbau.html
+16. OECD (2025): *Skills for the Digital Transition — Survey of Adult Skills*. Verfügbar unter: https://www.oecd.org/skills/piaac/
+17. BMAS (2025): *KI-Kompetenzoffensive — Programmbeschreibung*. Verfügbar unter: https://www.bmas.de/DE/Arbeit/Digitalisierung-der-Arbeitswelt/KI-Kompetenzoffensive
+18. Bitkom (2025): *Digitalisierung der deutschen Wirtschaft — Investitionen und Potenziale*. Verfügbar unter: https://www.bitkom.org/Presse/Presseinformation/Digitalisierung-Investitionen
+19. e-Estonia (2025): *e-Estonia Factsheet*. Verfügbar unter: https://e-estonia.com/wp-content/uploads/factsheet.pdf
+20. Singapore Government (2025): *National AI Strategy 2.0*. Smart Nation and Digital Government Office. Verfügbar unter: https://www.smartnation.gov.sg/initiatives/artificial-intelligence/
+
+---
+
+**Über den Autor**: Dirk Röthig ist CEO von VERDANTIS Impact Capital mit Sitz in Zug, Schweiz. Als Unternehmer und Impact-Investor analysiert er die Schnittstellen von Demografie, Technologie und nachhaltiger Wirtschaftsentwicklung. Kontakt und weitere Artikel: [verdantiscapital.com](https://www.verdantiscapital.com) | [LinkedIn](https://www.linkedin.com/in/dirkroethig)
